@@ -1,0 +1,503 @@
+[{
+  "_id": {
+    "$oid": "5e981fe023f9944a9c8a5dbc"
+  },
+  "idShow": "CATEP-HDJKDL",
+  "ten": "Thời Trang - Phụ Kiện",
+  "lowerTen": "thoi trang - phu kien",
+  "icon": "fas fa-tshirt",
+  "ngayTao": {
+    "$date": "2021-01-22T17:00:00Z"
+  },
+  "idParen": "",
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9823e723f9944a9c8a5dbd"
+  },
+  "idShow": "CATEP-LKHHDH",
+  "ten": "Điện Thoại - Máy Tính Bảng",
+  "lowerTen": "dien thoai - may tinh bang",
+  "icon": "fas fa-mobile-alt",
+  "ngayTao": {
+    "$date": "2021-01-22T17:00:00Z"
+  },
+  "idParen": "",
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9854d923f9944a9c8a5dbe"
+  },
+  "idShow": "CATEP-KJHMNB",
+  "ten": "Điện Gia Dụng",
+  "lowerTen": "dien gia dung",
+  "icon": "fas fa-blender",
+  "ngayTao": {
+    "$date": "2021-01-22T17:00:00Z"
+  },
+  "idParen": "",
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e98553923f9944a9c8a5dbf"
+  },
+  "idShow": "CATEP-JHGCVB",
+  "ten": "Laptop - Thiết Bị IT",
+  "lowerTen": "laptop - thiet bi it",
+  "icon": "fas fa-laptop",
+  "ngayTao": {
+    "$date": "2021-01-22T17:00:00Z"
+  },
+  "idParen": "",
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e98558923f9944a9c8a5dc0"
+  },
+  "idShow": "CATEP-YUISFD",
+  "ten": "Máy Ảnh - Quay Phim",
+  "lowerTen": "may anh - quay phim",
+  "icon": "fas fa-camera",
+  "ngayTao": {
+    "$date": "2021-01-22T17:00:00Z"
+  },
+  "idParen": "",
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea14e9ca77f3c29c4124648"
+  },
+  "idShow": "CATE-F50482",
+  "ten": "Thể thao - Du lịch",
+  "lowerTen": "the thao - du lich",
+  "icon": "fas fa-futbol",
+  "ngayTao": {
+    "$date": "2020-04-23T08:15:24.247Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5eecdf87ffce8524909b244a"
+  },
+  "idShow": "CATE-FD52AA",
+  "ten": "Hàng Tiêu Dùng - Thực Phẩm",
+  "lowerTen": "hang tieu dung - thuc pham",
+  "icon": "fas fa-utensils",
+  "ngayTao": {
+    "$date": "2021-05-01T05:19:47.864Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5eecdfa0ffce8524909b244b"
+  },
+  "idShow": "CATE-886BCD",
+  "ten": "Nhà Cửa Đời Sống",
+  "lowerTen": "nha cua doi song",
+  "icon": "fas fa-pump-soap",
+  "ngayTao": {
+    "$date": "2021-01-19T15:54:08.465Z"
+  },
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608cdf64cda8b6477899f9b2"
+  },
+  "idShow": "CATE-687BE0",
+  "ten": "Sức Khỏe - Làm Đẹp",
+  "lowerTen": "suc khoe - lam dep",
+  "icon": "fas fa-heartbeat",
+  "ngayTao": {
+    "$date": "2021-05-01T04:56:04.890Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608ce4f3cda8b6477899f9b3"
+  },
+  "idShow": "CATE-893275",
+  "ten": "Điện Tử - Điện Lạnh",
+  "lowerTen": "dien tu - dien lanh",
+  "icon": "fas fa-tv",
+  "ngayTao": {
+    "$date": "2021-01-19T15:53:43.456Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608ce5bbcda8b6477899f9b4"
+  },
+  "idShow": "CATE-BB1104",
+  "ten": "Sách - Văn Phòng Phẩm",
+  "lowerTen": "sach - van phong pham",
+  "icon": "fas fa-book",
+  "ngayTao": {
+    "$date": "2021-05-01T05:23:07.865Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608ce65bcda8b6477899f9b5"
+  },
+  "idShow": "CATE-E044EF",
+  "ten": "Mẹ - Bé - Đồ Chơi",
+  "lowerTen": "me - be - do choi",
+  "icon": "fas fa-baby-carriage",
+  "ngayTao": {
+    "$date": "2021-05-01T05:25:47.593Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608ce76acda8b6477899f9b6"
+  },
+  "idShow": "CATE-741760",
+  "ten": "Ô Tô - Xe Máy - Xe Đạp",
+  "lowerTen": "o to - xe may - xe dap",
+  "icon": "fas fa-motorcycle",
+  "ngayTao": {
+    "$date": "2021-05-01T05:30:17.958Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608cf062cda8b6477899f9b7"
+  },
+  "idShow": "CATE-C2001F",
+  "ten": "Voucher -Dịch Vụ",
+  "lowerTen": "voucher -dich vu",
+  "icon": "far fa-address-card",
+  "ngayTao": {
+    "$date": "2021-05-01T06:08:34.582Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ea14e19a77f3c29c4124647"
+  },
+  "idShow": "CATE-9811E5",
+  "ten": "Thời Trang Nữ",
+  "lowerTen": "thoi trang nu",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:13:13.614Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ea3c3b2732b94643482550d"
+  },
+  "idShow": "CATE-1AB5EA",
+  "ten": "Thời Trang Nam",
+  "lowerTen": "thoi trang nam",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-25T04:59:30.783Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8d97a3d8f9e78b0a868f7"
+  },
+  "idShow": "CATE-9CB302",
+  "ten": "Giày Dép Nữ",
+  "lowerTen": "giay dep nu",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:06:18.237Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8d98c3d8f9e78b0a868f8"
+  },
+  "idShow": "CATE-0219CA",
+  "ten": "Giày Dép Nam",
+  "lowerTen": "giay dep nam",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:06:36.941Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8d9ac3d8f9e78b0a868f9"
+  },
+  "idShow": "CATE-2F26B6",
+  "ten": "Túi Thời Trang",
+  "lowerTen": "tui thoi trang",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:07:08.091Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8da233d8f9e78b0a868fa"
+  },
+  "idShow": "CATE-03AC0B",
+  "ten": "Balo - Vali",
+  "lowerTen": "balo - vali",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:09:07.172Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8da2a3d8f9e78b0a868fb"
+  },
+  "idShow": "CATE-417825",
+  "ten": "Phụ Kiện",
+  "lowerTen": "phu kien",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:09:14.122Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8da4a3d8f9e78b0a868fc"
+  },
+  "idShow": "CATE-8C488E",
+  "ten": "Đồng Hồ - Trang Sức",
+  "lowerTen": "dong ho - trang suc",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:09:46.216Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e981fe023f9944a9c8a5dbc"
+},{
+  "_id": {
+    "$oid": "5ec8da853d8f9e78b0a868fd"
+  },
+  "idShow": "CATE-E5FB5E",
+  "ten": "Điện Thoại",
+  "lowerTen": "dien thoai",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:10:45.121Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e9823e723f9944a9c8a5dbd"
+},{
+  "_id": {
+    "$oid": "5ec8da8b3d8f9e78b0a868fe"
+  },
+  "idShow": "CATE-D75995",
+  "ten": "Máy Tính Bảng",
+  "lowerTen": "may tinh bang",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:10:51.854Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e9823e723f9944a9c8a5dbd"
+},{
+  "_id": {
+    "$oid": "5ec8daa53d8f9e78b0a868ff"
+  },
+  "idShow": "CATE-DC8B74",
+  "ten": "Đồng Hồ Thông Minh",
+  "lowerTen": "dong ho thong minh",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:11:17.109Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e9823e723f9944a9c8a5dbd"
+},{
+  "_id": {
+    "$oid": "5ec8dac43d8f9e78b0a86900"
+  },
+  "idShow": "CATE-DB0CBD",
+  "ten": "Đồ Dùng Nhà Bếp",
+  "lowerTen": "do dung nha bep",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:11:48.258Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e9854d923f9944a9c8a5dbe"
+},{
+  "_id": {
+    "$oid": "5ec8db113d8f9e78b0a86901"
+  },
+  "idShow": "CATE-377A88",
+  "ten": "Thiết Bị Gia Đình",
+  "lowerTen": "thiet bi gia dinh",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-23T08:13:05.852Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e9854d923f9944a9c8a5dbe"
+},{
+  "_id": {
+    "$oid": "5ed7eb5769beb1888c0bb3c9"
+  },
+  "idShow": "CATE-5ADCA1",
+  "ten": "Laptop Chính Hãng",
+  "lowerTen": "laptop chinh hang",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-03T18:26:31.988Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98553923f9944a9c8a5dbf"
+},{
+  "_id": {
+    "$oid": "5ed7eb6169beb1888c0bb3ca"
+  },
+  "idShow": "CATE-55FD77",
+  "ten": "Phụ Kiện Máy Tính",
+  "lowerTen": "phu kien may tinh",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-03T18:26:41.003Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98553923f9944a9c8a5dbf"
+},{
+  "_id": {
+    "$oid": "5ed7eb6e69beb1888c0bb3cb"
+  },
+  "idShow": "CATE-5380B8",
+  "ten": "Linh Kiện Máy Tính",
+  "lowerTen": "linh kien may tinh",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-03T18:26:54.830Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98553923f9944a9c8a5dbf"
+},{
+  "_id": {
+    "$oid": "5ed7eb7b69beb1888c0bb3cc"
+  },
+  "idShow": "CATE-3B3C9D",
+  "ten": "Thiết Bị Văn Phòng",
+  "lowerTen": "thiet bi van phong",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-03T18:27:07.888Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98553923f9944a9c8a5dbf"
+},{
+  "_id": {
+    "$oid": "5ed7eb8769beb1888c0bb3cd"
+  },
+  "idShow": "CATE-E87428",
+  "ten": "Máy Ảnh - Máy Quay",
+  "lowerTen": "may anh - may quay",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-01-03T18:27:19.233Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98558923f9944a9c8a5dc0"
+},{
+  "_id": {
+    "$oid": "608d106acda8b6477899f9b8"
+  },
+  "idShow": "CATE-83E9C7",
+  "ten": "Phụ Kiện Theo Máy",
+  "lowerTen": "phu kien theo may",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-05-01T08:25:14.353Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98558923f9944a9c8a5dc0"
+},{
+  "_id": {
+    "$oid": "608d107ecda8b6477899f9b9"
+  },
+  "idShow": "CATE-9A7A8E",
+  "ten": "Camera Giám Sát",
+  "lowerTen": "camera giam sat",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-05-01T08:25:34.928Z"
+  },
+  "isLock": false,
+  "isDelete": false,
+  "idParen": "5e98558923f9944a9c8a5dc0"
+},{
+  "_id": {
+    "$oid": "6094c4c0dfb23c2dc8ae53e3"
+  },
+  "idShow": "CATE-9FEF0C",
+  "ten": "sua chua",
+  "lowerTen": "sua chua",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-05-07T04:40:32.674Z"
+  },
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "6094c535542a2f4f304b5edc"
+  },
+  "idShow": "CATE-7DDD58",
+  "ten": "Router",
+  "lowerTen": "router",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-05-07T04:42:29.001Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+}]

@@ -1,0 +1,777 @@
+[{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4aa"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-10T19:38:40.115Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4ab"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-10T19:39:20.684Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4ac"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4ad"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4ae"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 4,
+  "ngayThucHien": {
+    "$date": "2020-06-10T20:19:08.999Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4af"
+  },
+  "idOrderDetail": "ORDDE-C653B3",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf95d"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-10T19:43:05.549Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf95e"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-10T19:43:23.407Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf95f"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf960"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf961"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 4,
+  "ngayThucHien": {
+    "$date": "2020-06-10T19:43:30.934Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf962"
+  },
+  "idOrderDetail": "ORDDE-1BAB16",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a2d"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:54:10.106Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a2e"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:58:04.037Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a2f"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a30"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a31"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a32"
+  },
+  "idOrderDetail": "ORDDE-402884",
+  "trangThai": 5,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:59:16.129Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a35"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:55:19.029Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a36"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:58:04.698Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a37"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a38"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a39"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a3a"
+  },
+  "idOrderDetail": "ORDDE-9247A1",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a3d"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:57:04.252Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a3e"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:58:05.175Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a3f"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a40"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a41"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a42"
+  },
+  "idOrderDetail": "ORDDE-5B5C6A",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a44"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:57:04.284Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a45"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2020-06-16T09:58:05.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a46"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a47"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a48"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a49"
+  },
+  "idOrderDetail": "ORDDE-E5D4DA",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2443"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2020-06-19T15:17:26.460Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2444"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2445"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2446"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2447"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2448"
+  },
+  "idOrderDetail": "ORDDE-09E8B0",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade5"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-15T05:50:41.378Z"
+  }
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade6"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2021-04-15T05:52:38.152Z"
+  }
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade7"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade8"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade9"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 4,
+  "ngayThucHien": {
+    "$date": "2021-04-15T05:56:53.538Z"
+  }
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76adea"
+  },
+  "idOrderDetail": "ORDDE-F640CB",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9c9"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-17T02:15:04.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9ca"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2021-04-17T02:18:12.114Z"
+  }
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9cb"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9cc"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9cd"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 4,
+  "ngayThucHien": {
+    "$date": "2021-04-17T02:18:26.233Z"
+  }
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9ce"
+  },
+  "idOrderDetail": "ORDDE-A0CF14",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a0"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-25T08:06:11.461Z"
+  }
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a1"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a2"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a3"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a4"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a5"
+  },
+  "idOrderDetail": "ORDDE-B11CFB",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1aff"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-25T10:34:01.614Z"
+  }
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b00"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 1,
+  "ngayThucHien": {
+    "$date": "2021-04-25T10:39:54.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b01"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b02"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b03"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b04"
+  },
+  "idOrderDetail": "ORDDE-118552",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c352"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-27T05:46:08.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c353"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c354"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c355"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c356"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c357"
+  },
+  "idOrderDetail": "ORDDE-C269DA",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e8f"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-04-29T08:24:41.593Z"
+  }
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e90"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e91"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e92"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e93"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e94"
+  },
+  "idOrderDetail": "ORDDE-8EC587",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3b"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-05-03T07:24:10.455Z"
+  }
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3c"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3d"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3e"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3f"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e40"
+  },
+  "idOrderDetail": "ORDDE-C48F3D",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce01629"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-05-03T10:56:47.493Z"
+  }
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162a"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162b"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162c"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162d"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162e"
+  },
+  "idOrderDetail": "ORDDE-3A69DD",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01631"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-05-03T11:33:14.675Z"
+  }
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01632"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01633"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01634"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01635"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01636"
+  },
+  "idOrderDetail": "ORDDE-593D72",
+  "trangThai": 5,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce01639"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 0,
+  "ngayThucHien": {
+    "$date": "2021-05-03T11:41:58.001Z"
+  }
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163a"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 1,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163b"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 2,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163c"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 3,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163d"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 4,
+  "ngayThucHien": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163e"
+  },
+  "idOrderDetail": "ORDDE-6A2A69",
+  "trangThai": 5,
+  "ngayThucHien": ""
+}]

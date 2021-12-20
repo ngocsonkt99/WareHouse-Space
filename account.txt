@@ -1,0 +1,11 @@
+--paypal
+
+--person
+shoponline.personal@gmail.com
+12345678
+
+--business
+shoponline.business@gmail.com
+12345678
+
+

@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "5e9ab673699ae60b147a2821"
+  },
+  "ten": "Nguyễn Trung Thái",
+  "lowerTen": "nguyen trung thai",
+  "email": "evans@gmail.com",
+  "sdt": "0584378737",
+  "cmnd": "025749157",
+  "ngaySinh": {
+    "$date": "1998-05-09T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "evans@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "ten": "",
+    "lowerTen": "",
+    "diaChi": "",
+    "idShop": "",
+    "logoShop": "",
+    "ngayTao": "",
+    "moTa": "",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 0,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9ab836699ae60b147a2822"
+  },
+  "ten": "Văn Thanh Tâm",
+  "lowerTen": "van thanh tam",
+  "email": "vanthanhtam@gmail.com",
+  "sdt": "0769755434",
+  "cmnd": "087388387",
+  "ngaySinh": "1997-02-09T17:00:00.000Z",
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "vanthanhtam@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "ten": "Thanh lý kidosince",
+    "lowerTen": "thanh ly kidosince",
+    "diaChi": "200 Âu Cơ phường 10, Tân Bình, TP.Hồ Chí Minh",
+    "idShop": "SHOP-ADDFFS",
+    "logoShop": "https://s3-ap-southeast-1.amazonaws.com/misskicklibrary/wp-content/uploads/2017/10/09141546/shop-quan-ao-thiet-ke-kido.jpg",
+    "ngayTao": {
+      "$date": "2021-04-19T17:00:00Z"
+    },
+    "moTa": "Chuyên buôn bán, trao đổi các sản phẩm từ KIDO",
+    "img": {
+      "carousel": [
+        "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fcarouselkido1.PNG?alt=media&token=f3fedebf-b4c4-46fb-b603-0811de449fff",
+        "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fcarouselkido2.PNG?alt=media&token=b87a7b70-693f-4222-8546-a1db112d1ab8"
+      ],
+      "banner1": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbanner1kido.PNG?alt=media&token=f33d1264-20a2-4069-9c03-ff0eb0b9342b",
+      "banner2": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbanner2kido.PNG?alt=media&token=c16cbd18-9298-4c7e-82ac-c509e0f0278e"
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9ab944699ae60b147a2823"
+  },
+  "ten": "Võ Ngọc Hào",
+  "lowerTen": "vo ngoc hao",
+  "email": "haovo@gmail.com",
+  "sdt": "0903774245",
+  "cmnd": "023444878",
+  "ngaySinh": {
+    "$date": "1972-05-31T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "haovo@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-0D403C",
+    "ten": "DEGREY",
+    "lowerTen": "degrey",
+    "diaChi": "123 Nguyễn Chí Thanh p.6 quận Tân Bình TP.HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fdegrey.PNG?alt=media&token=d0bdf9c6-7677-4a76-894b-13f8e46886bf",
+    "ngayTao": {
+      "$date": "2021-05-24T06:39:11.291Z"
+    },
+    "moTa": "Local brand Việt Nam",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ebcf703cacdde1d8caeb469"
+  },
+  "ten": "Phạm Thị Yến Linh",
+  "lowerTen": "pham thi yen linh",
+  "email": "yenlinh9a6@gmail.com",
+  "sdt": "0938883773",
+  "cmnd": "984777463",
+  "ngaySinh": "2008-01-21T17:00:00.000Z",
+  "gioiTinh": 0,
+  "taiKhoan": {
+    "tenTaiKhoan": "yenlinh9a6@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-D156AB",
+    "ten": "BOBUI",
+    "lowerTen": "bobui",
+    "diaChi": "34 Hai Bà Trưng p.10 quận 3 TP.HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbobui.PNG?alt=media&token=702df1a7-c1a9-435f-b959-9d633294cfa0",
+    "ngayTao": {
+      "$date": "2021-05-14T11:24:08.753Z"
+    },
+    "moTa": "Local brand Việt Nam",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed37e34027d005bd00e9f14"
+  },
+  "ten": "Evans",
+  "lowerTen": "evans",
+  "email": "ngtrungthai37@gmail.com",
+  "sdt": "0938883938",
+  "cmnd": "2343244",
+  "ngaySinh": {
+    "$date": "1993-02-02T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "ngtrungthai37@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-AFEC10",
+    "ten": "Evans store",
+    "lowerTen": "evans store",
+    "diaChi": "1 pasteur",
+    "logoShop": "data:image/png;base64,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",
+    "ngayTao": {
+      "$date": "2021-05-31T09:51:56.616Z"
+    },
+    "moTa": "Shop xịn",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608a6cd8db2a8d456c4b6e8d"
+  },
+  "ten": "Nguyễn Trung Thái",
+  "lowerTen": "nguyen trung thai",
+  "email": "nguyentrungthai.lop95@gmail.com",
+  "sdt": "0987654321",
+  "cmnd": "11",
+  "ngaySinh": "2020-12-31T17:00:00.000Z",
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "nguyentrungthai.lop95@gmail.com",
+    "matKhau": "$2b$10$n63gfIxma4b5uMvymoV1cO8UahK58KGNZ7wj1sKQ13caXXVy0K/jq"
+  },
+  "thongTinShop": {
+    "ten": "",
+    "lowerTen": "",
+    "diaChi": "",
+    "idShop": "",
+    "logoShop": "",
+    "ngayTao": "",
+    "moTa": "",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    }
+  },
+  "vaiTro": 2,
+  "isLock": false,
+  "isDelete": false,
+  "iat": 1619684550,
+  "exp": 1619685450
+}]

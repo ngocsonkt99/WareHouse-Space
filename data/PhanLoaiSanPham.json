@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "5ea863818ca56d53746f4bfb"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-LKJOIU"
+},{
+  "_id": {
+    "$oid": "5ea8642c8ca56d53746f4bfc"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-LKJOIU"
+},{
+  "_id": {
+    "$oid": "5ea864978ca56d53746f4bfd"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": 40,
+  "idProduct": "PRODU-LKJOIU"
+},{
+  "_id": {
+    "$oid": "5ea864f18ca56d53746f4bff"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": 41,
+  "idProduct": "PRODU-LKJOIU"
+},{
+  "_id": {
+    "$oid": "5ea865178ca56d53746f4c00"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": 42,
+  "idProduct": "PRODU-LKJOIU"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327de"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327df"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327e0"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Vàng",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327e1"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "M",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327e2"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "L",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c43b9d8f680c206327e3"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "XL",
+  "idProduct": "PRODU-B90203"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970092"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970093"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970094"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Vàng",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970095"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "M",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970096"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "L",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5eb6c5691bedc75ef0970097"
+  },
+  "nhomPhanLoai": 1,
+  "tenPhanLoai": "XL",
+  "idProduct": "PRODU-B3A836"
+},{
+  "_id": {
+    "$oid": "5ec8e8991124567df8fc832a"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Trắng",
+  "idProduct": "PRODU-F47550"
+},{
+  "_id": {
+    "$oid": "5ec8e8991124567df8fc832b"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-F47550"
+},{
+  "_id": {
+    "$oid": "5ec8e8991124567df8fc832c"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-F47550"
+},{
+  "_id": {
+    "$oid": "5ec8ffd946938440142eef39"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-6202B8"
+},{
+  "_id": {
+    "$oid": "5ec8ffd946938440142eef3a"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Trắng",
+  "idProduct": "PRODU-6202B8"
+},{
+  "_id": {
+    "$oid": "5ec90515e7bd512978e05da1"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-5751AE"
+},{
+  "_id": {
+    "$oid": "5ec90515e7bd512978e05da2"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Trắng",
+  "idProduct": "PRODU-5751AE"
+},{
+  "_id": {
+    "$oid": "5ed7e8cf653c7f86505e3104"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-7885F5"
+},{
+  "_id": {
+    "$oid": "5ed7e8cf653c7f86505e3105"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-7885F5"
+},{
+  "_id": {
+    "$oid": "5ed7edb969beb1888c0bb3cf"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Vàng",
+  "idProduct": "PRODU-2A7BED"
+},{
+  "_id": {
+    "$oid": "5ed7edb969beb1888c0bb3d0"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Xanh rêu",
+  "idProduct": "PRODU-2A7BED"
+},{
+  "_id": {
+    "$oid": "5ed7edb969beb1888c0bb3d1"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Xám",
+  "idProduct": "PRODU-2A7BED"
+},{
+  "_id": {
+    "$oid": "5ed7f02169beb1888c0bb3d3"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Tím",
+  "idProduct": "PRODU-E9416F"
+},{
+  "_id": {
+    "$oid": "5ed7f02169beb1888c0bb3d4"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Xanh lục",
+  "idProduct": "PRODU-E9416F"
+},{
+  "_id": {
+    "$oid": "5ed7f02169beb1888c0bb3d5"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đen",
+  "idProduct": "PRODU-E9416F"
+},{
+  "_id": {
+    "$oid": "5ed7f02169beb1888c0bb3d6"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "Đỏ",
+  "idProduct": "PRODU-E9416F"
+},{
+  "_id": {
+    "$oid": "608fc03999213e2e4ce01626"
+  },
+  "nhomPhanLoai": 0,
+  "tenPhanLoai": "xanh",
+  "idProduct": "PRODU-ABAA3A"
+}]

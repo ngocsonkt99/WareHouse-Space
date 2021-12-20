@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "5edfdac0fafc3d3afe439580"
+  },
+  "question": "Sản phẩm có giữ được nhiệt lâu không ạ",
+  "answer": "Chào bạn, Sản phẩm có thể giữ nhiệt khoảng 6 tiếng, tùy vào độ nóng của nước nữa bạn nhé.",
+  "luotThich": 3,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab944699ae60b147a2823",
+    "5ebcf703cacdde1d8caeb469"
+  ],
+  "ngayTao": {
+    "$date": "2021-05-28T17:00:00Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-01T17:00:00Z"
+  },
+  "idProduct": "PRODU-6202B8",
+  "isAccept": true
+},{
+  "_id": {
+    "$oid": "5edfe62e1a58cd42dc2da59f"
+  },
+  "question": "asd",
+  "answer": "bikapoo",
+  "luotThich": 1,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822"
+  ],
+  "ngayTao": {
+    "$date": "2021-06-09T19:42:38.050Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-10T15:58:31.970Z"
+  },
+  "idProduct": "PRODU-6202B8",
+  "isAccept": true
+},{
+  "_id": {
+    "$oid": "5edfeb01c94b891354d94d47"
+  },
+  "question": "qwe",
+  "answer": "ha hah a",
+  "luotThich": 1,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822"
+  ],
+  "ngayTao": {
+    "$date": "2021-06-09T20:03:13.063Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-10T15:58:24.424Z"
+  },
+  "idProduct": "PRODU-6202B8",
+  "isAccept": true
+},{
+  "_id": {
+    "$oid": "5ee08b71868f5b03e093a1cc"
+  },
+  "question": "asdasd",
+  "answer": "amen",
+  "luotThich": 1,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822"
+  ],
+  "ngayTao": {
+    "$date": "2021-06-10T07:27:45.182Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-10T07:27:45.182Z"
+  },
+  "idProduct": "PRODU-6202B8",
+  "isAccept": true
+},{
+  "_id": {
+    "$oid": "5ee10cf05dd41643c8d62ec4"
+  },
+  "question": "sp này có cho trả góp ko?",
+  "answer": "Chào bạn, hiện tại sản phẩm này không có chương trình trả góp ạ",
+  "luotThich": 1,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822"
+  ],
+  "ngayTao": {
+    "$date": "2021-06-10T16:40:16.026Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-10T16:41:14.653Z"
+  },
+  "idProduct": "PRODU-6202B8",
+  "isAccept": true
+},{
+  "_id": {
+    "$oid": "5ee76dace808c55abcc25aaa"
+  },
+  "question": "Nồi này có thể hấp được không ạ ?",
+  "answer": "Chào bạn, nồi này không hấp được bạn nhé",
+  "luotThich": 1,
+  "idUsersThich": [
+    "5e9ab836699ae60b147a2822"
+  ],
+  "ngayTao": {
+    "$date": "2021-06-15T12:46:36.557Z"
+  },
+  "ngayTraLoi": {
+    "$date": "2021-06-15T12:47:37.555Z"
+  },
+  "idProduct": "PRODU-7885F5",
+  "isAccept": true
+}]

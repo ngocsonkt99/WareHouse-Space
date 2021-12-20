@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "5ed4ba2fd41b5a49d9967461"
+  },
+  "ten": "điện thoại",
+  "lowerTen": "dien thoai",
+  "count": 81,
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5ebcf703cacdde1d8caeb469"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed54bf88e3d662bfccc75be"
+  },
+  "ten": "máy tính",
+  "lowerTen": "may tinh",
+  "count": 9,
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed54c4f8e3d662bfccc75bf"
+  },
+  "ten": "iphone",
+  "lowerTen": "iphone",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54c796062822934111958"
+  },
+  "ten": "samsung",
+  "lowerTen": "samsung",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54c7e6062822934111959"
+  },
+  "ten": "sam",
+  "lowerTen": "sam",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54c92606282293411195a"
+  },
+  "ten": "may tinh bang",
+  "lowerTen": "may tinh bang",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54cb8606282293411195b"
+  },
+  "ten": "sữa",
+  "lowerTen": "sua",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54cca606282293411195c"
+  },
+  "ten": "tủ lạnh",
+  "lowerTen": "tu lanh",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54cdd606282293411195d"
+  },
+  "ten": "giày nike",
+  "lowerTen": "giay nike",
+  "count": 3,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54ce8606282293411195e"
+  },
+  "ten": "adidas",
+  "lowerTen": "adidas",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54cf1606282293411195f"
+  },
+  "ten": "vans",
+  "lowerTen": "vans",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d056062822934111960"
+  },
+  "ten": "điện thoại Iphone",
+  "lowerTen": "dien thoai iphone",
+  "count": 3,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d216062822934111961"
+  },
+  "ten": "cpu",
+  "lowerTen": "cpu",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d256062822934111962"
+  },
+  "ten": "ASUS",
+  "lowerTen": "asus",
+  "count": 3,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d2e6062822934111963"
+  },
+  "ten": "dell",
+  "lowerTen": "dell",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d356062822934111964"
+  },
+  "ten": "sale",
+  "lowerTen": "sale",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d3b6062822934111965"
+  },
+  "ten": "giam gia",
+  "lowerTen": "giam gia",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d546062822934111966"
+  },
+  "ten": "dong ho",
+  "lowerTen": "dong ho",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d5a6062822934111967"
+  },
+  "ten": "apple watch",
+  "lowerTen": "apple watch",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d686062822934111968"
+  },
+  "ten": "Xs max",
+  "lowerTen": "xs max",
+  "count": 4,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed54d776062822934111969"
+  },
+  "ten": "giay adidas",
+  "lowerTen": "giay adidas",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed552e37f88c17a6477e979"
+  },
+  "ten": "asd",
+  "lowerTen": "asd",
+  "count": 7,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed556287f88c17a6477e97a"
+  },
+  "ten": "dasd",
+  "lowerTen": "dasd",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed5575f7f88c17a6477e97b"
+  },
+  "ten": "aaaa",
+  "lowerTen": "aaaa",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed5f38abfb04166d8262a52"
+  },
+  "ten": "giay",
+  "lowerTen": "giay",
+  "count": 4,
+  "idUser": [
+    "5e9ab673699ae60b147a2821"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed68fb2ed8ce75110b47664"
+  },
+  "ten": "dasdasdasd",
+  "lowerTen": "dasdasdasd",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed68fc1ed8ce75110b47665"
+  },
+  "ten": "quan",
+  "lowerTen": "quan",
+  "count": 18,
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed77cd900424b3e0ce65cac"
+  },
+  "ten": "tay cam",
+  "lowerTen": "tay cam",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed77cfc00424b3e0ce65cad"
+  },
+  "ten": "noi",
+  "lowerTen": "noi",
+  "count": 13,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed77d6200424b3e0ce65cae"
+  },
+  "ten": "noi chien",
+  "lowerTen": "noi chien",
+  "count": 3,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed77e2000424b3e0ce65caf"
+  },
+  "ten": "noi dien",
+  "lowerTen": "noi dien",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed77e2f00424b3e0ce65cb0"
+  },
+  "ten": "noi dien da nang",
+  "lowerTen": "noi dien da nang",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed780c000424b3e0ce65cb1"
+  },
+  "ten": "lock",
+  "lowerTen": "lock",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed780c600424b3e0ce65cb2"
+  },
+  "ten": "lock&lock",
+  "lowerTen": "lock&lock",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed780f500424b3e0ce65cb3"
+  },
+  "ten": "Nồi Điện Đa Năng Lock&Lock EJC141 (1.5 Lít) - Hàng Chính Hãng",
+  "lowerTen": "noi dien da nang lock&lock ejc141 (1.5 lit) - hang chinh hang",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed781fcdb80af5a4c2ebb33"
+  },
+  "ten": "da nang",
+  "lowerTen": "da nang",
+  "count": 2,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed78209db80af5a4c2ebb34"
+  },
+  "ten": "loa",
+  "lowerTen": "loa",
+  "count": 5,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed7826edb80af5a4c2ebb35"
+  },
+  "ten": "blue",
+  "lowerTen": "blue",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed784b8db80af5a4c2ebb38"
+  },
+  "ten": "xe",
+  "lowerTen": "xe",
+  "count": 1,
+  "idUser": []
+},{
+  "_id": {
+    "$oid": "5ed7db4644e17382dc40257e"
+  },
+  "ten": "dien",
+  "lowerTen": "dien",
+  "count": 3,
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed8769b698bdc2c90e0c43f"
+  },
+  "ten": "qwe",
+  "lowerTen": "qwe",
+  "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed8773435d8c090b02634f5"
+  },
+  "ten": "fgh",
+  "lowerTen": "fgh",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed877627a5de8415c0202d9"
+  },
+  "ten": "nha",
+  "lowerTen": "nha",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed8776c7a5de8415c0202da"
+  },
+  "ten": "mi tom",
+  "lowerTen": "mi tom",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed877727a5de8415c0202db"
+  },
+  "ten": "mi goi",
+  "lowerTen": "mi goi",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed878657a5de8415c0202dc"
+  },
+  "ten": "may xay",
+  "lowerTen": "may xay",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5ed879827a5de8415c0202dd"
+  },
+  "ten": "laptop",
+  "lowerTen": "laptop",
+  "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822",
+    "5e9ab673699ae60b147a2821"
+  ]
+},{
+  "_id": {
+    "$oid": "5edb1b187c42a44338f99e5d"
+  },
+  "ten": "zzzzz",
+  "lowerTen": "zzzzz",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5edb1b2e7c42a44338f99e5e"
+  },
+  "ten": "qweqwee",
+  "lowerTen": "qweqwee",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "5edb1b497c42a44338f99e5f"
+  },
+  "ten": "may tinhh",
+  "lowerTen": "may tinhh",
+  "count": 1,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "6077abef120da83dcc76ade3"
+  },
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "lowerTen": "giay the thao nam biti's hunter x 2018",
+  "count": 2,
+  "idUser": [
+    "5eddb2c8392cad4a88bc2e74"
+  ]
+},{
+  "_id": {
+    "$oid": "608d26d3cda8b6477899f9ba"
+  },
+  "ten": "máy lạnh",
+  "lowerTen": "may lanh",
+  "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "608d2d65cda8b6477899f9bb"
+  },
+  "ten": "máy",
+  "lowerTen": "may",
+  "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "608d3196cda8b6477899f9bc"
+  },
+  "ten": " ",
+  "lowerTen": " ",
+  "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+}]
