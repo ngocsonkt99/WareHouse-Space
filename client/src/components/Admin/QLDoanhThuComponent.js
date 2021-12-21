@@ -209,6 +209,8 @@ export default function QLDoanhThuComponent() {
                             }}></Bar>
                         </div>
                     <br></br><br></br>
+
+                    
                     {/* <br></br><br></br>
                     <div style={{ height: 600, width: 1100, marginLeft: 100 }}>
                         <Line data={chartData} options={{
