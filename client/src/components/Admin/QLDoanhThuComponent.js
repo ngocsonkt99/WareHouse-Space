@@ -2,7 +2,7 @@ import React, { useState, useEffect, Fragment } from 'react';
 import { Radio, message } from 'antd';
 import { Table } from 'react-bootstrap';
 import { axios } from '../../config/constant';
-import { Line, Pie } from 'react-chartjs-2';
+import { Bar, Line, Pie } from 'react-chartjs-2';
 import { Link } from 'react-router-dom';
 
 export default function QLDoanhThuComponent() {
@@ -178,6 +178,38 @@ export default function QLDoanhThuComponent() {
 
                     <br></br><br></br>
                     <br></br><br></br>
+                        <div style={{ height: 600, width: 1200, marginLeft: 100 }}>
+                            <Bar data={chartData} options={{
+                                responsive: true,
+                                title: {
+                                    text: 'BIỂU ĐỒ CỘT', display: true
+                                },
+                                scales: {
+                                    yAxes: [
+                                        {
+                                            ticks: {
+                                                autoSkip: true,
+                                                maxTicksLimit: 10,
+                                                beginAtZero: true
+                                            },
+                                            gridLines: {
+                                                display: false,
+
+                                            }
+                                        }
+                                    ],
+                                    xAxes: [
+                                        {
+                                            gridLines: {
+                                                display: false
+                                            }
+                                        }
+                                    ]
+                                }
+                            }}></Bar>
+                        </div>
+                    <br></br><br></br>
+                    {/* <br></br><br></br>
                     <div style={{ height: 600, width: 1100, marginLeft: 100 }}>
                         <Line data={chartData} options={{
                             responsive: true,
@@ -218,7 +250,7 @@ export default function QLDoanhThuComponent() {
                                 text: 'BIỂU ĐỒ TRÒN', display: true
                             }
                         }}></Pie>
-                    </div>
+                    </div> */}
 
                     <div className="col" style={{ width: '100%', marginTop: 40 }}>
                         <h4>CHI TIẾT DOANH THU</h4>

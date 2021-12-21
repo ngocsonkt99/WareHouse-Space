@@ -1,8 +1,8 @@
-const DbUrl = "mongodb://localhost:27017";
-const DbName = "OnlineSelling0";
+// const DbUrl = "mongodb://localhost:27017";
+// const DbName = "OnlineSelling0";
 
-// const DbUrl = 'mongodb+srv://admin:admin123456@develop.o5a0o.mongodb.net/test'
-// const DbName = 'ShopOnline'
+const DbUrl = 'mongodb+srv://admin:admin123456@develop.o5a0o.mongodb.net/test'
+const DbName = 'ShopOnline'
 
 const soItemMoiPage = 8;
 const soItemMoiPageCategory = 16;
