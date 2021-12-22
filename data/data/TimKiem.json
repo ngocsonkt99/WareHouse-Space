@@ -4,10 +4,11 @@
   },
   "ten": "điện thoại",
   "lowerTen": "dien thoai",
-  "count": 81,
+  "count": 82,
   "idUser": [
     "5e9ab836699ae60b147a2822",
-    "5ebcf703cacdde1d8caeb469"
+    "5ebcf703cacdde1d8caeb469",
+    "5ed37e34027d005bd00e9f14"
   ]
 },{
   "_id": {
@@ -176,8 +177,8 @@
   "_id": {
     "$oid": "5ed552e37f88c17a6477e979"
   },
-  "ten": "asd",
-  "lowerTen": "asd",
+  "ten": "quần tây",
+  "lowerTen": "quan tay",
   "count": 7,
   "idUser": []
 },{
@@ -218,8 +219,8 @@
   "_id": {
     "$oid": "5ed68fc1ed8ce75110b47665"
   },
-  "ten": "quan",
-  "lowerTen": "quan",
+  "ten": "lịch 2022",
+  "lowerTen": "lich 2022",
   "count": 18,
   "idUser": [
     "5e9ab836699ae60b147a2822",
@@ -237,8 +238,8 @@
   "_id": {
     "$oid": "5ed77cfc00424b3e0ce65cad"
   },
-  "ten": "noi",
-  "lowerTen": "noi",
+  "ten": "áo thun",
+  "lowerTen": "ao thun",
   "count": 13,
   "idUser": [
     "5e9ab836699ae60b147a2822"
@@ -443,9 +444,10 @@
   },
   "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
   "lowerTen": "giay the thao nam biti's hunter x 2018",
-  "count": 2,
+  "count": 3,
   "idUser": [
-    "5eddb2c8392cad4a88bc2e74"
+    "5eddb2c8392cad4a88bc2e74",
+    "618a3978c08c4f4694e764af"
   ]
 },{
   "_id": {
@@ -474,6 +476,46 @@
   "ten": " ",
   "lowerTen": " ",
   "count": 2,
+  "idUser": [
+    "5e9ab836699ae60b147a2822"
+  ]
+},{
+  "_id": {
+    "$oid": "618a41e83110f63e64fd539b"
+  },
+  "ten": "Điện Thoại iPhone 11",
+  "lowerTen": "dien thoai iphone 11",
+  "count": 1,
+  "idUser": [
+    "618a3978c08c4f4694e764af"
+  ]
+},{
+  "_id": {
+    "$oid": "618a45993110f63e64fd53a0"
+  },
+  "ten": "Product",
+  "lowerTen": "product",
+  "count": 1,
+  "idUser": [
+    "618a3978c08c4f4694e764af"
+  ]
+},{
+  "_id": {
+    "$oid": "618a459e3110f63e64fd53a1"
+  },
+  "ten": "Product test",
+  "lowerTen": "product test",
+  "count": 2,
+  "idUser": [
+    "618a3978c08c4f4694e764af"
+  ]
+},{
+  "_id": {
+    "$oid": "61bd783d76869851585c8ffa"
+  },
+  "ten": "test",
+  "lowerTen": "test",
+  "count": 1,
   "idUser": [
     "5e9ab836699ae60b147a2822"
   ]

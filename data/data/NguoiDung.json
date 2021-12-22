@@ -1,0 +1,303 @@
+[{
+  "_id": {
+    "$oid": "5e9ab673699ae60b147a2821"
+  },
+  "ten": "WareHouse Space",
+  "lowerTen": "warehouse space",
+  "email": "warehousespace@gmail.com",
+  "sdt": "0342661063",
+  "cmnd": "025749157",
+  "ngaySinh": {
+    "$date": "1998-05-09T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "warehousespace@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "ten": "",
+    "lowerTen": "",
+    "diaChi": "",
+    "idShop": "",
+    "logoShop": "",
+    "ngayTao": "",
+    "moTa": "",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 0,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9ab836699ae60b147a2822"
+  },
+  "ten": "Ứng Ngọc Sơn ",
+  "lowerTen": "ung ngoc son",
+  "email": "ungngocson@gmail.com",
+  "sdt": "0342661063",
+  "cmnd": "087388387",
+  "ngaySinh": "1999-07-14T17:00:00.000Z",
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "ungngocson@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "ten": "Kidosince",
+    "lowerTen": "kidosince",
+    "diaChi": "200 Âu Cơ phường 10, Tân Bình, TP.Hồ Chí Minh",
+    "idShop": "SHOP-ADDFFS",
+    "logoShop": "https://s3-ap-southeast-1.amazonaws.com/misskicklibrary/wp-content/uploads/2017/10/09141546/shop-quan-ao-thiet-ke-kido.jpg",
+    "ngayTao": {
+      "$date": "2021-11-29T17:00:00Z"
+    },
+    "moTa": "Chuyên buôn bán các sản phẩm trên WareHouse Space",
+    "img": {
+      "carousel": [
+        "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fcarouselkido1.PNG?alt=media&token=f3fedebf-b4c4-46fb-b603-0811de449fff",
+        "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fcarouselkido2.PNG?alt=media&token=b87a7b70-693f-4222-8546-a1db112d1ab8"
+      ],
+      "banner1": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbanner1kido.PNG?alt=media&token=f33d1264-20a2-4069-9c03-ff0eb0b9342b",
+      "banner2": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fbanner2kido.PNG?alt=media&token=c16cbd18-9298-4c7e-82ac-c509e0f0278e"
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5e9ab944699ae60b147a2823"
+  },
+  "ten": "Trần Đại Hiệp",
+  "lowerTen": "tran dai hiep",
+  "email": "trandaihiep@gmail.com",
+  "sdt": "0903774245",
+  "cmnd": "023444878",
+  "ngaySinh": {
+    "$date": "1972-05-31T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "trandaihiep@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-0D403C",
+    "ten": "DEGREY",
+    "lowerTen": "degrey",
+    "diaChi": "123 Nguyễn Chí Thanh p.6 quận Tân Bình TP.HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fdegrey.PNG?alt=media&token=d0bdf9c6-7677-4a76-894b-13f8e46886bf",
+    "ngayTao": {
+      "$date": "2021-05-24T06:39:11.291Z"
+    },
+    "moTa": "Chi Nhánh Phân Phối Sản Phẩm Degrey Tại WareHouse Space",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ebcf703cacdde1d8caeb469"
+  },
+  "ten": "Hiep",
+  "lowerTen": "hiep",
+  "email": "warehousespace3@gmail.com",
+  "sdt": "0938883773",
+  "cmnd": "984777463",
+  "ngaySinh": "2008-01-21T17:00:00.000Z",
+  "gioiTinh": 0,
+  "taiKhoan": {
+    "tenTaiKhoan": "warehousespace3@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-D156AB",
+    "ten": "WASABI",
+    "lowerTen": "wasabi",
+    "diaChi": "Gò Vấp - TP.HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2F26.jpg?alt=media&token=eefe77a1-a61d-4bcd-927d-7a8e9de34511",
+    "ngayTao": {
+      "$date": "2021-11-14T11:24:08.753Z"
+    },
+    "moTa": "Cửa Hàng Đa Năng - SDT: 0975868427",
+    "img": {
+      "carousel": [
+        "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FTet3.jpg?alt=media&token=b81893dd-f7da-4104-83d2-6a5de4bc265a"
+      ],
+      "banner1": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FTet1.jpg?alt=media&token=2c563743-828d-49ce-8993-cbe2455f4ac6",
+      "banner2": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FTet2.jpg?alt=media&token=e0363063-bcae-4020-af6a-6d1b8b91d9c1"
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "5ed37e34027d005bd00e9f14"
+  },
+  "ten": "Son",
+  "lowerTen": "son",
+  "email": "warehousespace2@gmail.com",
+  "sdt": "0938883938",
+  "cmnd": "2343244",
+  "ngaySinh": {
+    "$date": "1993-02-02T17:00:00Z"
+  },
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "warehousespace2@gmail.com",
+    "matKhau": "$2b$10$ad/nofNGbyZmL3bK6y1xeeQYIrLV/MSUtivluYeqCpDu4epxgUf3a"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-AFEC10",
+    "ten": "Son store",
+    "lowerTen": "son store",
+    "diaChi": "1 pasteur Đà Nẵng",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2F6.jpg?alt=media&token=52fd4a2f-5876-43c4-8f96-938ac70c5205",
+    "ngayTao": {
+      "$date": "2021-11-21T09:51:56.616Z"
+    },
+    "moTa": "Shop bách hóa - Sdt: 01254785614",
+    "img": {
+      "carousel": [
+        "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FNhanHang.PNG?alt=media&token=bba8e87f-5ffe-49a0-ac19-cc62076f825c"
+      ],
+      "banner1": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fld-banner-nd-three-3.jpg?alt=media&token=03521b9c-d53a-4df3-9a78-d15874454c8a",
+      "banner2": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fld-banner-nd-three-4.jpg?alt=media&token=03a3cd7f-8cc7-45e1-b55e-809cd915a16f"
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "608a6cd8db2a8d456c4b6e8d"
+  },
+  "ten": "Ung Son",
+  "lowerTen": "ung son",
+  "email": "warehousespace1@gmail.com",
+  "sdt": "0987654321",
+  "cmnd": "11",
+  "ngaySinh": "2020-12-31T17:00:00.000Z",
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "warehousespace1@gmail.com",
+    "matKhau": "$2b$10$n63gfIxma4b5uMvymoV1cO8UahK58KGNZ7wj1sKQ13caXXVy0K/jq"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-24F5D9",
+    "ten": "Shop Test 222",
+    "lowerTen": "shop test 222",
+    "diaChi": "HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/oneup-e2972.appspot.com/o/images%2F17.jpg?alt=media&token=1f081df2-65ae-410f-80a0-31b4f98a1e28",
+    "keyPaypal": "123456",
+    "viShop": "",
+    "ngayTao": {
+      "$date": "2021-11-09T10:27:21.887Z"
+    },
+    "moTa": "Shop sales",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    },
+    "isLock": true
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false,
+  "iat": 1619684550,
+  "exp": 1619685450
+},{
+  "_id": {
+    "$oid": "618a3978c08c4f4694e764af"
+  },
+  "ten": "Ứng Ngọc Sơn",
+  "lowerTen": "ung ngoc son",
+  "email": "ungngocsonkt@gmail.com",
+  "sdt": "0342661063",
+  "cmnd": "148752",
+  "ngaySinh": "1899-11-01T16:53:20.000Z",
+  "gioiTinh": 1,
+  "taiKhoan": {
+    "tenTaiKhoan": "ungngocsonkt@gmail.com",
+    "matKhau": "$2b$10$ArGbiYndSSu5lb9J5.6uIeDQtqukFAcs/iJYxZ2gWVTKhSXHi8kz6"
+  },
+  "thongTinShop": {
+    "idShop": "SHOP-5F1B7A",
+    "ten": "SellPhones",
+    "lowerTen": "sellphones",
+    "diaChi": "14 - Nguyễn Văn Bảo - Gò Vấp - TP.HCM",
+    "logoShop": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fungngocsonkt.png?alt=media&token=065dd663-3a92-4d57-b1ab-0fa34ddfc6fd",
+    "keyPaypal": "123456",
+    "viShop": "",
+    "ngayTao": {
+      "$date": "2021-11-09T09:44:28.084Z"
+    },
+    "moTa": "Hợp tác cùng WareHouse!\nMọi thắc mắc liên hệ cho chúng tôi\nSĐT: 0342661063\nEmail: ungngocsonkt@gmail.com",
+    "img": {
+      "carousel": [
+        "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2FGSDT.jpg?alt=media&token=27ad94a0-1367-4719-b1b6-875be15ae7ba"
+      ],
+      "banner1": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fimages%20(1).png?alt=media&token=f46d88fb-7220-4987-a898-6bad706514df",
+      "banner2": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fimages%20(1).png?alt=media&token=d3efedc1-a6de-4747-9c3f-8538d8a78b81"
+    },
+    "isLock": false
+  },
+  "vaiTro": 1,
+  "isLock": false,
+  "isDelete": false,
+  "iat": 1636448539,
+  "exp": 1636449439
+},{
+  "_id": {
+    "$oid": "61bfa7694f99e11894abeaa8"
+  },
+  "ten": "Trần Đại Hiệp",
+  "lowerTen": "tran dai hiep",
+  "email": "congnghemoitest1@gmail.com",
+  "sdt": "0352168954",
+  "cmnd": "5646487986",
+  "ngaySinh": "2001-12-20T17:00:00.000Z",
+  "gioiTinh": 0,
+  "taiKhoan": {
+    "tenTaiKhoan": "congnghemoitest1@gmail.com",
+    "matKhau": "$2b$10$DrKkNOXLsy7MOBY3V3TUxOUqnGEWOCOp2DoqMUepNQ/BvBMSy6VqG"
+  },
+  "thongTinShop": {
+    "ten": "",
+    "lowerTen": "",
+    "diaChi": "",
+    "idShop": "",
+    "logoShop": "",
+    "keyPaypal": "",
+    "viShop": "",
+    "ngayTao": "",
+    "moTa": "",
+    "img": {
+      "carousel": [],
+      "banner1": "",
+      "banner2": ""
+    }
+  },
+  "vaiTro": 2,
+  "isLock": false,
+  "isDelete": false,
+  "iat": 1639950105,
+  "exp": 1639951005
+}]

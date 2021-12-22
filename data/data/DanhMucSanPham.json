@@ -7,7 +7,7 @@
   "lowerTen": "thoi trang - phu kien",
   "icon": "fas fa-tshirt",
   "ngayTao": {
-    "$date": "2021-01-22T17:00:00Z"
+    "$date": "2021-11-02T17:00:00Z"
   },
   "idParen": "",
   "isLock": false,
@@ -21,7 +21,7 @@
   "lowerTen": "dien thoai - may tinh bang",
   "icon": "fas fa-mobile-alt",
   "ngayTao": {
-    "$date": "2021-01-22T17:00:00Z"
+    "$date": "2021-11-02T17:00:00Z"
   },
   "idParen": "",
   "isLock": false,
@@ -35,7 +35,7 @@
   "lowerTen": "dien gia dung",
   "icon": "fas fa-blender",
   "ngayTao": {
-    "$date": "2021-01-22T17:00:00Z"
+    "$date": "2021-11-06T17:00:00Z"
   },
   "idParen": "",
   "isLock": false,
@@ -49,7 +49,7 @@
   "lowerTen": "laptop - thiet bi it",
   "icon": "fas fa-laptop",
   "ngayTao": {
-    "$date": "2021-01-22T17:00:00Z"
+    "$date": "2021-11-06T17:00:00Z"
   },
   "idParen": "",
   "isLock": false,
@@ -63,7 +63,7 @@
   "lowerTen": "may anh - quay phim",
   "icon": "fas fa-camera",
   "ngayTao": {
-    "$date": "2021-01-22T17:00:00Z"
+    "$date": "2021-11-06T17:00:00Z"
   },
   "idParen": "",
   "isLock": false,
@@ -77,7 +77,7 @@
   "lowerTen": "the thao - du lich",
   "icon": "fas fa-futbol",
   "ngayTao": {
-    "$date": "2020-04-23T08:15:24.247Z"
+    "$date": "2020-11-09T08:15:24.247Z"
   },
   "idParen": "",
   "isLock": true,
@@ -91,7 +91,7 @@
   "lowerTen": "hang tieu dung - thuc pham",
   "icon": "fas fa-utensils",
   "ngayTao": {
-    "$date": "2021-05-01T05:19:47.864Z"
+    "$date": "2021-11-09T05:19:47.864Z"
   },
   "idParen": "",
   "isLock": true,
@@ -105,7 +105,7 @@
   "lowerTen": "nha cua doi song",
   "icon": "fas fa-pump-soap",
   "ngayTao": {
-    "$date": "2021-01-19T15:54:08.465Z"
+    "$date": "2021-11-09T15:54:08.465Z"
   },
   "isLock": true,
   "isDelete": false
@@ -118,7 +118,7 @@
   "lowerTen": "suc khoe - lam dep",
   "icon": "fas fa-heartbeat",
   "ngayTao": {
-    "$date": "2021-05-01T04:56:04.890Z"
+    "$date": "2021-11-15T04:56:04.890Z"
   },
   "idParen": "",
   "isLock": true,
@@ -132,7 +132,7 @@
   "lowerTen": "dien tu - dien lanh",
   "icon": "fas fa-tv",
   "ngayTao": {
-    "$date": "2021-01-19T15:53:43.456Z"
+    "$date": "2021-11-15T15:53:43.456Z"
   },
   "idParen": "",
   "isLock": true,
@@ -146,7 +146,7 @@
   "lowerTen": "sach - van phong pham",
   "icon": "fas fa-book",
   "ngayTao": {
-    "$date": "2021-05-01T05:23:07.865Z"
+    "$date": "2021-11-18T05:23:07.865Z"
   },
   "idParen": "",
   "isLock": true,
@@ -160,7 +160,7 @@
   "lowerTen": "me - be - do choi",
   "icon": "fas fa-baby-carriage",
   "ngayTao": {
-    "$date": "2021-05-01T05:25:47.593Z"
+    "$date": "2021-11-18T05:25:47.593Z"
   },
   "idParen": "",
   "isLock": true,
@@ -174,7 +174,7 @@
   "lowerTen": "o to - xe may - xe dap",
   "icon": "fas fa-motorcycle",
   "ngayTao": {
-    "$date": "2021-05-01T05:30:17.958Z"
+    "$date": "2021-11-19T05:30:17.958Z"
   },
   "idParen": "",
   "isLock": true,
@@ -188,7 +188,7 @@
   "lowerTen": "voucher -dich vu",
   "icon": "far fa-address-card",
   "ngayTao": {
-    "$date": "2021-05-01T06:08:34.582Z"
+    "$date": "2021-11-19T06:08:34.582Z"
   },
   "idParen": "",
   "isLock": true,
@@ -202,7 +202,7 @@
   "lowerTen": "thoi trang nu",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:13:13.614Z"
+    "$date": "2021-11-23T08:13:13.614Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -216,7 +216,7 @@
   "lowerTen": "thoi trang nam",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-25T04:59:30.783Z"
+    "$date": "2021-11-25T04:59:30.783Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -230,7 +230,7 @@
   "lowerTen": "giay dep nu",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:06:18.237Z"
+    "$date": "2021-11-25T08:06:18.237Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -244,7 +244,7 @@
   "lowerTen": "giay dep nam",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:06:36.941Z"
+    "$date": "2021-11-25T08:06:36.941Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -258,7 +258,7 @@
   "lowerTen": "tui thoi trang",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:07:08.091Z"
+    "$date": "2021-12-01T08:07:08.091Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -272,7 +272,7 @@
   "lowerTen": "balo - vali",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:09:07.172Z"
+    "$date": "2021-12-01T08:09:07.172Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -286,7 +286,7 @@
   "lowerTen": "phu kien",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:09:14.122Z"
+    "$date": "2021-12-01T08:09:14.122Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -300,7 +300,7 @@
   "lowerTen": "dong ho - trang suc",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:09:46.216Z"
+    "$date": "2021-12-08T08:09:46.216Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -314,7 +314,7 @@
   "lowerTen": "dien thoai",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:10:45.121Z"
+    "$date": "2021-12-08T08:10:45.121Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -328,7 +328,7 @@
   "lowerTen": "may tinh bang",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:10:51.854Z"
+    "$date": "2021-12-08T08:10:51.854Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -342,7 +342,7 @@
   "lowerTen": "dong ho thong minh",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:11:17.109Z"
+    "$date": "2021-12-11T08:11:17.109Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -356,7 +356,7 @@
   "lowerTen": "do dung nha bep",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:11:48.258Z"
+    "$date": "2021-12-11T08:11:48.258Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -370,7 +370,7 @@
   "lowerTen": "thiet bi gia dinh",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-23T08:13:05.852Z"
+    "$date": "2021-12-11T08:13:05.852Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -384,7 +384,7 @@
   "lowerTen": "laptop chinh hang",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-03T18:26:31.988Z"
+    "$date": "2021-12-15T18:26:31.988Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -398,7 +398,7 @@
   "lowerTen": "phu kien may tinh",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-03T18:26:41.003Z"
+    "$date": "2021-12-15T18:26:41.003Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -412,7 +412,7 @@
   "lowerTen": "linh kien may tinh",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-03T18:26:54.830Z"
+    "$date": "2021-12-15T18:26:54.830Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -426,7 +426,7 @@
   "lowerTen": "thiet bi van phong",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-03T18:27:07.888Z"
+    "$date": "2021-12-15T18:27:07.888Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -440,7 +440,7 @@
   "lowerTen": "may anh - may quay",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-01-03T18:27:19.233Z"
+    "$date": "2021-12-15T18:27:19.233Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -454,7 +454,7 @@
   "lowerTen": "phu kien theo may",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-05-01T08:25:14.353Z"
+    "$date": "2021-12-16T08:25:14.353Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -468,7 +468,7 @@
   "lowerTen": "camera giam sat",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-05-01T08:25:34.928Z"
+    "$date": "2021-12-17T08:25:34.928Z"
   },
   "isLock": false,
   "isDelete": false,
@@ -478,11 +478,11 @@
     "$oid": "6094c4c0dfb23c2dc8ae53e3"
   },
   "idShow": "CATE-9FEF0C",
-  "ten": "sua chua",
-  "lowerTen": "sua chua",
+  "ten": "Demo khoa lsp",
+  "lowerTen": "demo khoa lsp",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-05-07T04:40:32.674Z"
+    "$date": "2021-12-17T04:40:32.674Z"
   },
   "isLock": true,
   "isDelete": false
@@ -491,11 +491,25 @@
     "$oid": "6094c535542a2f4f304b5edc"
   },
   "idShow": "CATE-7DDD58",
-  "ten": "Router",
-  "lowerTen": "router",
+  "ten": "Test khoa lsp",
+  "lowerTen": "test khoa loai sp",
   "icon": "",
   "ngayTao": {
-    "$date": "2021-05-07T04:42:29.001Z"
+    "$date": "2021-12-17T04:42:29.001Z"
+  },
+  "idParen": "",
+  "isLock": true,
+  "isDelete": false
+},{
+  "_id": {
+    "$oid": "61bd697f76869851585c8ff9"
+  },
+  "idShow": "CATE-A8C303",
+  "ten": "Khoa lsp",
+  "lowerTen": "khoa lsp",
+  "icon": "",
+  "ngayTao": {
+    "$date": "2021-12-18T04:54:23.199Z"
   },
   "idParen": "",
   "isLock": true,

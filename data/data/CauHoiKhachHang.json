@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "5edfdac0fafc3d3afe439580"
   },
-  "question": "Sản phẩm có giữ được nhiệt lâu không ạ",
-  "answer": "Chào bạn, Sản phẩm có thể giữ nhiệt khoảng 6 tiếng, tùy vào độ nóng của nước nữa bạn nhé.",
+  "question": "Sản phẩm giữ ấm bao lâu?",
+  "answer": "Chào bạn, sản phẩm giữ nhiệt khoảng 3h.",
   "luotThich": 3,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822",
@@ -11,10 +11,10 @@
     "5ebcf703cacdde1d8caeb469"
   ],
   "ngayTao": {
-    "$date": "2021-05-28T17:00:00Z"
+    "$date": "2021-11-28T17:00:00Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-01T17:00:00Z"
+    "$date": "2021-12-01T17:00:00Z"
   },
   "idProduct": "PRODU-6202B8",
   "isAccept": true
@@ -22,17 +22,17 @@
   "_id": {
     "$oid": "5edfe62e1a58cd42dc2da59f"
   },
-  "question": "asd",
-  "answer": "bikapoo",
+  "question": "còn hàng không ạ!",
+  "answer": "Còn hàng bạn nhé, hãy tiếp tục mua sắm tại WareHouse",
   "luotThich": 1,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822"
   ],
   "ngayTao": {
-    "$date": "2021-06-09T19:42:38.050Z"
+    "$date": "2021-12-09T19:42:38.050Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-10T15:58:31.970Z"
+    "$date": "2021-12-10T15:58:31.970Z"
   },
   "idProduct": "PRODU-6202B8",
   "isAccept": true
@@ -40,17 +40,17 @@
   "_id": {
     "$oid": "5edfeb01c94b891354d94d47"
   },
-  "question": "qwe",
-  "answer": "ha hah a",
+  "question": "xin chào",
+  "answer": "rất vui được gặp bạn",
   "luotThich": 1,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822"
   ],
   "ngayTao": {
-    "$date": "2021-06-09T20:03:13.063Z"
+    "$date": "2021-12-09T20:03:13.063Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-10T15:58:24.424Z"
+    "$date": "2021-12-10T15:58:24.424Z"
   },
   "idProduct": "PRODU-6202B8",
   "isAccept": true
@@ -58,17 +58,17 @@
   "_id": {
     "$oid": "5ee08b71868f5b03e093a1cc"
   },
-  "question": "asdasd",
+  "question": "alo",
   "answer": "amen",
   "luotThich": 1,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822"
   ],
   "ngayTao": {
-    "$date": "2021-06-10T07:27:45.182Z"
+    "$date": "2021-12-10T07:27:45.182Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-10T07:27:45.182Z"
+    "$date": "2021-12-10T07:27:45.182Z"
   },
   "idProduct": "PRODU-6202B8",
   "isAccept": true
@@ -76,17 +76,17 @@
   "_id": {
     "$oid": "5ee10cf05dd41643c8d62ec4"
   },
-  "question": "sp này có cho trả góp ko?",
-  "answer": "Chào bạn, hiện tại sản phẩm này không có chương trình trả góp ạ",
+  "question": "Sản phẩm này bán chịu không?",
+  "answer": "Chào bạn, hiện tại WareHouse không hỗ trợ bán chịu ạ!",
   "luotThich": 1,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822"
   ],
   "ngayTao": {
-    "$date": "2021-06-10T16:40:16.026Z"
+    "$date": "2021-12-10T16:40:16.026Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-10T16:41:14.653Z"
+    "$date": "2021-12-10T16:41:14.653Z"
   },
   "idProduct": "PRODU-6202B8",
   "isAccept": true
@@ -94,17 +94,17 @@
   "_id": {
     "$oid": "5ee76dace808c55abcc25aaa"
   },
-  "question": "Nồi này có thể hấp được không ạ ?",
-  "answer": "Chào bạn, nồi này không hấp được bạn nhé",
+  "question": "Sản phẩm này bán rẻ hơn được không ạ?",
+  "answer": "Chào bạn, đây là giá ưu đãi nhất rồi ạ!",
   "luotThich": 1,
   "idUsersThich": [
     "5e9ab836699ae60b147a2822"
   ],
   "ngayTao": {
-    "$date": "2021-06-15T12:46:36.557Z"
+    "$date": "2021-12-15T12:46:36.557Z"
   },
   "ngayTraLoi": {
-    "$date": "2021-06-15T12:47:37.555Z"
+    "$date": "2021-12-15T12:47:37.555Z"
   },
   "idProduct": "PRODU-7885F5",
   "isAccept": true

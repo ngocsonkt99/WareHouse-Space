@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "5ea5ed9ca71e06540806cb93"
+  },
+  "idShow": "VOUCH-OPEN",
+  "idLower": "vouch-open",
+  "ten": "Khai Trương WareHouse Space",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 30,
+  "ngayBatDau": {
+    "$date": "2021-11-19T17:00:00Z"
+  },
+  "ngayKetThuc": {
+    "$date": "2022-05-09T17:00:00Z"
+  },
+  "ngayTao": {
+    "$date": "2021-11-14T17:00:00Z"
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ec8cda2e81ad64458c2812e"
+  },
+  "idShow": "VOUCH-WELCOME",
+  "idLower": "vouch-welcome",
+  "ten": "Chào Mừng Khách Hàng Mới",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 20,
+  "ngayBatDau": {
+    "$date": "2021-11-24T17:00:00Z"
+  },
+  "ngayKetThuc": {
+    "$date": "2022-11-24T17:00:00Z"
+  },
+  "ngayTao": {
+    "$date": "2021-11-18T17:00:00Z"
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ee707ab19df687cec6aa3e5"
+  },
+  "idShow": "NOEL-2021",
+  "idLower": "NOEL-2021",
+  "ten": "HÒA NHỊP CÙNG NOEL 2021",
+  "loaiGiamGia": 1,
+  "giaTriGiam": 20,
+  "ngayBatDau": "2021-12-10T05:30:52.810Z",
+  "ngayKetThuc": "2022-01-10T05:30:53.523Z",
+  "ngayTao": {
+    "$date": "2021-12-10T05:31:23.128Z"
+  },
+  "isLock": false
+},{
+  "_id": {
+    "$oid": "5ee708e5ef8da072c02285aa"
+  },
+  "idShow": "TET-2022",
+  "idLower": "tet-2022",
+  "ten": "CHUỖI SỰ KIỆN SALE LỚN TET 2022 TẠI WAREHOUSE SPACE",
+  "loaiGiamGia": 0,
+  "giaTriGiam": 100000,
+  "ngayBatDau": "2021-12-16T05:36:34.386Z",
+  "ngayKetThuc": "2022-02-16T05:36:35.836Z",
+  "ngayTao": {
+    "$date": "2021-12-15T05:36:37.250Z"
+  },
+  "isLock": false
+}]

@@ -1,0 +1,1251 @@
+[{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4b0"
+  },
+  "idShow": "ORDDE-C653B3",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "giaCuoiCung": 719200,
+  "giamGia": 0,
+  "thanhTien": 1438400,
+  "soLuong": 2,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+  "ngayTao": {
+    "$date": "2021-12-10T19:38:30.543Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-10T20:19:08.975Z"
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-06E7D0",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf963"
+  },
+  "idShow": "ORDDE-1BAB16",
+  "ten": "Loa Bluetooth LG XBOOM Go PK3 16W - Hàng Chính Hãng",
+  "giaCuoiCung": 558000,
+  "giamGia": 0,
+  "thanhTien": 558000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhchinhloalg.PNG?alt=media&token=dc4da7c7-3f55-43cb-b367-4dda47a1d023",
+  "ngayTao": {
+    "$date": "2021-12-10T19:43:04.078Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-10T19:43:30.899Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ebcf703cacdde1d8caeb469",
+  "idOrder": "ORDER-32ED7A",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a33"
+  },
+  "idShow": "ORDDE-402884",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "giaCuoiCung": 5992500,
+  "giamGia": 2397000,
+  "thanhTien": 9588000,
+  "soLuong": 2,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+  "ngayTao": {
+    "$date": "2021-12-16T09:53:24.444Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-16T09:59:16.117Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-54A178",
+  "trangThai": 5,
+  "ghiChu": "Hết hàng"
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a3b"
+  },
+  "idShow": "ORDDE-9247A1",
+  "ten": "Điện Thoại iPhone 11 Pro Max 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 28891500,
+  "giamGia": 5778300,
+  "thanhTien": 23113200,
+  "soLuong": 1,
+  "mauSac": "Xanh rêu",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone11chinh.PNG?alt=media&token=fa4c50ea-b5f9-4df1-9309-093b95809ac0",
+  "ngayTao": {
+    "$date": "2021-12-16T09:55:12.151Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-02T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-A20A0A",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a43"
+  },
+  "idShow": "ORDDE-5B5C6A",
+  "ten": "Quần Short Ford Nữ GHP-GARMENT GHP0001",
+  "giaCuoiCung": 135000,
+  "giamGia": 0,
+  "thanhTien": 540000,
+  "soLuong": 4,
+  "mauSac": "Vàng",
+  "size": "L",
+  "img": "https://salt.tikicdn.com/cache/w780/ts/product/e8/0a/76/b239a51dfcbc7aaf915816d9b7477df2.jpg",
+  "ngayTao": {
+    "$date": "2021-11-16T09:57:01.477Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-11-29T00:00:00Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-ED699F",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a4a"
+  },
+  "idShow": "ORDDE-E5D4DA",
+  "ten": "Quần Short Ford Nữ GHP-GARMENT GHP0001",
+  "giaCuoiCung": 135000,
+  "giamGia": 0,
+  "thanhTien": 540000,
+  "soLuong": 4,
+  "mauSac": "Đỏ",
+  "size": "L",
+  "img": "https://salt.tikicdn.com/cache/w780/ts/product/e8/0a/76/b239a51dfcbc7aaf915816d9b7477df2.jpg",
+  "ngayTao": {
+    "$date": "2021-12-16T09:57:01.477Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-17T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-ED699F",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "5eecd706ffce8524909b2449"
+  },
+  "idShow": "ORDDE-09E8B0",
+  "ten": "Điện Thoại iPhone 11 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 20010900,
+  "giamGia": 0,
+  "thanhTien": 60032700,
+  "soLuong": 3,
+  "mauSac": "Tím",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone112chinh.PNG?alt=media&token=d0e64b52-363d-438e-880e-89d3eb9c41ca",
+  "ngayTao": {
+    "$date": "2021-12-09T15:16:34.510Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-15T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-13BE59",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76adeb"
+  },
+  "idShow": "ORDDE-F640CB",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-10-28T05:50:30.211Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-10-29T05:56:53.517Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-685A3F",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9cf"
+  },
+  "idShow": "ORDDE-A0CF14",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 1346800,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-10-29T02:14:59.705Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-11-01T02:18:26.181Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idOrder": "ORDER-8DBE57",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d8a6"
+  },
+  "idShow": "ORDDE-B11CFB",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 1346800,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-10-25T07:59:10.969Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-10-27T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ebcf703cacdde1d8caeb469",
+  "idOrder": "ORDER-78E9A6",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1b05"
+  },
+  "idShow": "ORDDE-118552",
+  "ten": "Điện Thoại iPhone 11 Pro Max 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 28891500,
+  "giamGia": 0,
+  "thanhTien": 28891500,
+  "soLuong": 1,
+  "mauSac": "Xám",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone11chinh.PNG?alt=media&token=fa4c50ea-b5f9-4df1-9309-093b95809ac0",
+  "ngayTao": {
+    "$date": "2021-11-25T10:29:36.610Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-11-30T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "6085442aea965433586f1afd",
+  "idOrder": "ORDER-3F1C0D",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "6087a520c13c9f3214a1c358"
+  },
+  "idShow": "ORDDE-C269DA",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 1346800,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-27T05:45:08.239Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-11-28T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "6085442aea965433586f1afd",
+  "idOrder": "ORDER-0C97AA",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e95"
+  },
+  "idShow": "ORDDE-8EC587",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 1346800,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-29T08:23:49.416Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-01T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "608a6cd8db2a8d456c4b6e8d",
+  "idOrder": "ORDER-F540CC",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e41"
+  },
+  "idShow": "ORDDE-C48F3D",
+  "ten": "Loa Bluetooth LG XBOOM Go PK3 16W - Hàng Chính Hãng",
+  "giaCuoiCung": 558000,
+  "giamGia": 0,
+  "thanhTien": 558000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fanhchinhloalg.PNG?alt=media&token=dc4da7c7-3f55-43cb-b367-4dda47a1d023",
+  "ngayTao": {
+    "$date": "2021-12-03T07:16:07.072Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-05T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-842C7F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce0162f"
+  },
+  "idShow": "ORDDE-3A69DD",
+  "ten": "Điện Thoại iPhone 11 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 20010900,
+  "giamGia": 0,
+  "thanhTien": 20010900,
+  "soLuong": 1,
+  "mauSac": "Xanh lục",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone112chinh.PNG?alt=media&token=d0e64b52-363d-438e-880e-89d3eb9c41ca",
+  "ngayTao": {
+    "$date": "2021-12-03T10:55:51.059Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-07T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-D8E67E",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01637"
+  },
+  "idShow": "ORDDE-593D72",
+  "ten": "Máy Lạnh Inverter Lg V10enw (1hp) - Hàng Chính Hãng",
+  "giaCuoiCung": 6786100,
+  "giamGia": 0,
+  "thanhTien": 6786100,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmaylanhchinh.PNG?alt=media&token=f6770d77-8ed6-4a9d-9be1-306ad72d4dec",
+  "ngayTao": {
+    "$date": "2021-12-03T11:32:19.812Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-08T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-74BBF1",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "608fe18699213e2e4ce0163f"
+  },
+  "idShow": "ORDDE-6A2A69",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 1346800,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-12-03T11:41:15.218Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-11T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idOrder": "ORDER-B4ADC8",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3c10c08c4f4694e764b7"
+  },
+  "idShow": "ORDDE-FCFCFE",
+  "ten": "Điện Thoại iPhone 11 Pro Max 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 28891500,
+  "giamGia": 100000,
+  "thanhTien": 28791500,
+  "soLuong": 1,
+  "mauSac": "Vàng",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone11chinh.PNG?alt=media&token=fa4c50ea-b5f9-4df1-9309-093b95809ac0",
+  "ngayTao": {
+    "$date": "2021-12-09T09:14:31.988Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-11T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-9D5AA0",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3c10c08c4f4694e764be"
+  },
+  "idShow": "ORDDE-60016B",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 100000,
+  "thanhTien": 2593600,
+  "soLuong": 2,
+  "mauSac": "Đỏ",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-12-09T09:14:31.988Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-14T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-9D5AA0",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3d32a2e0b6030403e88a"
+  },
+  "idShow": "ORDDE-6AE2A7",
+  "ten": "Điện Thoại iPhone 11 Pro Max 64GB - Hàng Chính Hãng",
+  "giaCuoiCung": 28891500,
+  "giamGia": 0,
+  "thanhTien": 28891500,
+  "soLuong": 1,
+  "mauSac": "Vàng",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fiphone11chinh.PNG?alt=media&token=fa4c50ea-b5f9-4df1-9309-093b95809ac0",
+  "ngayTao": {
+    "$date": "2021-12-17T09:19:37.099Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-17T16:53:20Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-03C348",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3d32a2e0b6030403e891"
+  },
+  "idShow": "ORDDE-93D624",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 2693600,
+  "soLuong": 2,
+  "mauSac": "Đỏ",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-09T09:19:37.099Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-03C348",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3da0a2e0b6030403e899"
+  },
+  "idShow": "ORDDE-8CC4C3",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "giaCuoiCung": 719200,
+  "giamGia": 0,
+  "thanhTien": 719200,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3da0a2e0b6030403e8a0"
+  },
+  "idShow": "ORDDE-7D77B8",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 2693600,
+  "soLuong": 2,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3eee705420263ce41011"
+  },
+  "idShow": "ORDDE-BF8205",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "giaCuoiCung": 719200,
+  "giamGia": 0,
+  "thanhTien": 719200,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3eee705420263ce41018"
+  },
+  "idShow": "ORDDE-E89373",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 2693600,
+  "soLuong": 2,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3f3b705420263ce41020"
+  },
+  "idShow": "ORDDE-C73363",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "giaCuoiCung": 719200,
+  "giamGia": 0,
+  "thanhTien": 719200,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3f3b705420263ce41027"
+  },
+  "idShow": "ORDDE-781410",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 2693600,
+  "soLuong": 2,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3face0fa4e063c2bd714"
+  },
+  "idShow": "ORDDE-AA11CA",
+  "ten": "Máy Xay Thịt Philips HR1393 (0.7L) - Hàng chính hãng",
+  "giaCuoiCung": 719200,
+  "giamGia": 0,
+  "thanhTien": 719200,
+  "soLuong": 1,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fmayxaythitchinh.PNG?alt=media&token=97f9db71-dcd7-43d1-8d46-5fdd6110ee4e",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a3face0fa4e063c2bd71b"
+  },
+  "idShow": "ORDDE-E4CB34",
+  "ten": "Nồi Chiên Không Dầu Magic A-801 (6.0 Lít) - Hàng Chính Hãng",
+  "giaCuoiCung": 1346800,
+  "giamGia": 0,
+  "thanhTien": 2693600,
+  "soLuong": 2,
+  "mauSac": "Đen",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fnoichienmagicanhchinh.PNG?alt=media&token=d3fa4302-d0ff-43e6-a927-5093baea570f",
+  "ngayTao": {
+    "$date": "2021-11-09T09:21:29.219Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-2DB96D",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a4070e0fa4e063c2bd723"
+  },
+  "idShow": "ORDDE-2B6158",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-11-09T09:33:33.513Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-45524A",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a40ee3110f63e64fd539a"
+  },
+  "idShow": "ORDDE-58EDE2",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-11-09T09:33:33.513Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-45524A",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a48caa4c6d617d062fd78"
+  },
+  "idShow": "ORDDE-623C35",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "giaCuoiCung": 4500000,
+  "giamGia": 0,
+  "thanhTien": 4500000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+  "ngayTao": {
+    "$date": "2021-11-09T10:09:11.346Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-74AF03",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a48e9a4c6d617d062fd80"
+  },
+  "idShow": "ORDDE-1A9CE6",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "giaCuoiCung": 4500000,
+  "giamGia": 0,
+  "thanhTien": 4500000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+  "ngayTao": {
+    "$date": "2021-11-09T10:09:11.346Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-74AF03",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a48eba4c6d617d062fd88"
+  },
+  "idShow": "ORDDE-846DAA",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "giaCuoiCung": 4500000,
+  "giamGia": 0,
+  "thanhTien": 4500000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+  "ngayTao": {
+    "$date": "2021-11-09T10:09:11.346Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-11-09T10:16:43.002Z"
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-74AF03",
+  "trangThai": 5,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "618a49576bf9460788b3c8eb"
+  },
+  "idShow": "ORDDE-2985D0",
+  "ten": "Điện Thoại Samsung Galaxy A51 (128GB/6GB) - Hàng Chính Hãng - Đã Kích Hoạt Bảo Hành Điện Tử",
+  "giaCuoiCung": 4500000,
+  "giamGia": 0,
+  "thanhTien": 4500000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2Fsamsungchinh.PNG?alt=media&token=56a5b50a-5bd2-4aad-9f30-11f276c7631f",
+  "ngayTao": {
+    "$date": "2021-11-09T10:11:33.797Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-85FACA",
+  "trangThai": 2,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd95a176869851585c902a"
+  },
+  "idShow": "ORDDE-FB52C5",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-19T21:58:27.055Z"
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 4,
+  "ghiChu": "Cảm ơn quý khách"
+},{
+  "_id": {
+    "$oid": "61bd95a176869851585c9031"
+  },
+  "idShow": "ORDDE-A220AD",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd95b476869851585c9039"
+  },
+  "idShow": "ORDDE-86EBD4",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd95b476869851585c9040"
+  },
+  "idShow": "ORDDE-8751E3",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd96f576869851585c9048"
+  },
+  "idShow": "ORDDE-B8460C",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd96f576869851585c904f"
+  },
+  "idShow": "ORDDE-6D3A1F",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd9776d292b00e882a30c1"
+  },
+  "idShow": "ORDDE-29325F",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd9776d292b00e882a30c8"
+  },
+  "idShow": "ORDDE-8694C3",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-B8079F",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd9b1febf6fc32947ccdc7"
+  },
+  "idShow": "ORDDE-ED5BDA",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-18T08:25:23.946Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-4D4744",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bd9b1febf6fc32947ccdce"
+  },
+  "idShow": "ORDDE-A58815",
+  "ten": "Giày Thể Thao Nam Biti's Hunter X 2018",
+  "giaCuoiCung": 420000,
+  "giamGia": 0,
+  "thanhTien": 420000,
+  "soLuong": 1,
+  "mauSac": "Đỏ",
+  "size": 40,
+  "img": "https://salt.tikicdn.com/cache/w1200/ts/product/b3/4b/d1/becaa4f984872fcd4497ad31fe199414.JPG",
+  "ngayTao": {
+    "$date": "2021-12-18T08:25:23.946Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-ADDFFS",
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idOrder": "ORDER-4D4744",
+  "trangThai": 0,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bf9ca14f99e11894abeaa7"
+  },
+  "idShow": "ORDDE-42B1F9",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 3990000,
+  "soLuong": 1,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-19T20:57:00.508Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-4FF419",
+  "trangThai": 1,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bfaa0a4f99e11894abeab0"
+  },
+  "idShow": "ORDDE-ED9D60",
+  "ten": "Nubia Red Magic 6 Pro",
+  "giaCuoiCung": 17900000,
+  "giamGia": 0,
+  "thanhTien": 17900000,
+  "soLuong": 1,
+  "mauSac": "Bạc",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fs_4_1.webp?alt=media&token=19d8d18a-63f6-4d4c-9363-674b3ec58053",
+  "ngayTao": {
+    "$date": "2021-12-02T21:54:14.280Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-02T21:56:57.739Z"
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "61bfa7694f99e11894abeaa8",
+  "idOrder": "ORDER-548859",
+  "trangThai": 4,
+  "ghiChu": "Cảm ơn quý khách hàng"
+},{
+  "_id": {
+    "$oid": "61bfaa0a4f99e11894abeab7"
+  },
+  "idShow": "ORDDE-5A201D",
+  "ten": "Oneplus Nord CE",
+  "giaCuoiCung": 7900000,
+  "giamGia": 0,
+  "thanhTien": 15800000,
+  "soLuong": 2,
+  "mauSac": "Xám",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fone_plus-1_2.jpg?alt=media&token=9e7c1d39-f07c-4b22-834d-b8f16f6084fa",
+  "ngayTao": {
+    "$date": "2021-12-10T21:54:14.280Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-11T21:56:18.453Z"
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "61bfa7694f99e11894abeaa8",
+  "idOrder": "ORDER-548859",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bfb3404f99e11894abeabf"
+  },
+  "idShow": "ORDDE-AFBA58",
+  "ten": "Vsmart Live 4",
+  "giaCuoiCung": 3990000,
+  "giamGia": 0,
+  "thanhTien": 59850000,
+  "soLuong": 15,
+  "mauSac": "Xanh",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/shoponline-fd329.appspot.com/o/images%2Fvsmart-live-4-4gb-1.jpg?alt=media&token=445e68c2-0a3c-4382-8455-6b1547b7cc08",
+  "ngayTao": {
+    "$date": "2021-12-19T22:33:29.749Z"
+  },
+  "ngayHoanThanh": {
+    "$date": "2021-12-19T22:34:11.655Z"
+  },
+  "idShop": "SHOP-5F1B7A",
+  "idUser": "61bfa7694f99e11894abeaa8",
+  "idOrder": "ORDER-C1B180",
+  "trangThai": 4,
+  "ghiChu": ""
+},{
+  "_id": {
+    "$oid": "61bff7874f99e11894abeac7"
+  },
+  "idShow": "ORDDE-112B50",
+  "ten": "Tay Cầm Microsoft Xbox One S (Màu Trắng) - Hàng Nhập Khẩu",
+  "giaCuoiCung": 1430000,
+  "giamGia": 0,
+  "thanhTien": 1430000,
+  "soLuong": 1,
+  "mauSac": "",
+  "size": "",
+  "img": "https://firebasestorage.googleapis.com/v0/b/onlineselling2-9e8dd.appspot.com/o/images%2F123.PNG?alt=media&token=ac10a8a8-cfba-432d-8c46-56b7766ed2a7",
+  "ngayTao": {
+    "$date": "2021-12-20T03:24:50.613Z"
+  },
+  "ngayHoanThanh": {
+    "$date": {
+      "$numberLong": "-2206336000000"
+    }
+  },
+  "idShop": "SHOP-D156AB",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idOrder": "ORDER-99F37F",
+  "trangThai": 0,
+  "ghiChu": ""
+}]

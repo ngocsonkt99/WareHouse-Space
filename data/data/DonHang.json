@@ -1,0 +1,704 @@
+[{
+  "_id": {
+    "$oid": "5ee136c0edfb450c54d8c4a9"
+  },
+  "idShow": "ORDER-06E7D0",
+  "thongTinNguoiMua": {
+    "ten": "Son",
+    "lowerTen": "son",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 1438400,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-10-28T19:38:30.543Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "5ee137c9f70ae5345cdaf95c"
+  },
+  "idShow": "ORDER-32ED7A",
+  "thongTinNguoiMua": {
+    "ten": "Son mua 1",
+    "lowerTen": "son mua 1",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 558000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-11-01T19:43:04.078Z"
+  },
+  "idUser": "5ebcf703cacdde1d8caeb469",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "5ee896c205fc7b4c382f5a2c"
+  },
+  "idShow": "ORDER-54A178",
+  "thongTinNguoiMua": {
+    "ten": "Son mua 2",
+    "lowerTen": "son mua 2",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 11985000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-03T09:53:24.444Z"
+  },
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idVoucher": "SUMMER-2020"
+},{
+  "_id": {
+    "$oid": "5ee8970705fc7b4c382f5a34"
+  },
+  "idShow": "ORDER-A20A0A",
+  "thongTinNguoiMua": {
+    "ten": "Son mua 3",
+    "lowerTen": "son mua 3",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 28891500,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-11-05T09:55:12.151Z"
+  },
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idVoucher": "SUMMER-2020"
+},{
+  "_id": {
+    "$oid": "5ee8977005fc7b4c382f5a3c"
+  },
+  "idShow": "ORDER-ED699F",
+  "thongTinNguoiMua": {
+    "ten": "Son mua 4",
+    "lowerTen": "son mua 4",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 1080000,
+  "soLuongSanPham": 8,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-11-09T09:57:01.477Z"
+  },
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "5eecd705ffce8524909b2442"
+  },
+  "idShow": "ORDER-13BE59",
+  "thongTinNguoiMua": {
+    "ten": "Hiep",
+    "lowerTen": "hiep",
+    "sdt": "0584378737",
+    "diaChi": "4 đường số 2, phường Bình Lợi, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 60032700,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-11T15:16:34.510Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "6077d431120da83dcc76ade4"
+  },
+  "idShow": "ORDER-685A3F",
+  "thongTinNguoiMua": {
+    "ten": "Hiep test 1",
+    "lowerTen": "hiep test 1",
+    "sdt": "0987654321",
+    "diaChi": "1 Pastuer, phường Bến Nghé, Quận 1, Hồ Chí Minh"
+  },
+  "tongTien": 420000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-11-15T05:50:30.211Z"
+  },
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "607a44a8ea235e3ef8f3b9c8"
+  },
+  "idShow": "ORDER-8DBE57",
+  "thongTinNguoiMua": {
+    "ten": "Hiep test 2",
+    "lowerTen": "hiep test 2",
+    "sdt": "0987654321",
+    "diaChi": "5730, phường 11, Gò Vấp, Hồ Chí Minh"
+  },
+  "tongTien": 1346800,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-11-17T02:14:59.705Z"
+  },
+  "idUser": "5eddb2c8392cad4a88bc2e74",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608522f33e3a2d3b2814d89f"
+  },
+  "idShow": "ORDER-78E9A6",
+  "thongTinNguoiMua": {
+    "ten": "Hiep test 3",
+    "lowerTen": "hiep test 3",
+    "sdt": "0987654321",
+    "diaChi": "11, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 1346800,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-18T07:59:10.969Z"
+  },
+  "idUser": "5ebcf703cacdde1d8caeb469",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "60854599ea965433586f1afe"
+  },
+  "idShow": "ORDER-3F1C0D",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 1",
+    "lowerTen": "ware mua 1",
+    "sdt": "0987654321",
+    "diaChi": "11, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 28891500,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-21T10:29:36.610Z"
+  },
+  "idUser": "6085442aea965433586f1afd",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "6087a51fc13c9f3214a1c351"
+  },
+  "idShow": "ORDER-0C97AA",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 2",
+    "lowerTen": "ware mua 2",
+    "sdt": "0987654321",
+    "diaChi": "11, phường Bình Chánh, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 1346800,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-24T05:45:08.239Z"
+  },
+  "idUser": "6085442aea965433586f1afd",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608a6d49db2a8d456c4b6e8e"
+  },
+  "idShow": "ORDER-F540CC",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 3",
+    "lowerTen": "ware mua 3",
+    "sdt": "0987654321",
+    "diaChi": "11, phường An Lạc A, Bình Tân, Hồ Chí Minh"
+  },
+  "tongTien": 1346800,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-27T08:23:49.416Z"
+  },
+  "idUser": "608a6cd8db2a8d456c4b6e8d",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608fa51a350bc43664d94e3a"
+  },
+  "idShow": "ORDER-842C7F",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 4",
+    "lowerTen": "ware mua 4",
+    "sdt": "0987654321",
+    "diaChi": "11, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 558000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-11-29T07:16:07.072Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608fd6ef99213e2e4ce01628"
+  },
+  "idShow": "ORDER-D8E67E",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 5",
+    "lowerTen": "ware mua 5",
+    "sdt": "0987654321",
+    "diaChi": "11, phường Bình Chánh, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 20010900,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-12-01T10:55:51.059Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608fdf7a99213e2e4ce01630"
+  },
+  "idShow": "ORDER-74BBF1",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 6",
+    "lowerTen": "ware mua 6",
+    "sdt": "0987654321",
+    "diaChi": "1121, phường Bình Hưng Hòa A, Bình Tân, Hồ Chí Minh"
+  },
+  "tongTien": 6786100,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-12-03T11:32:19.812Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "608fe18599213e2e4ce01638"
+  },
+  "idShow": "ORDER-B4ADC8",
+  "thongTinNguoiMua": {
+    "ten": "Ware mua 7",
+    "lowerTen": "ware mua 7",
+    "sdt": "0987654321",
+    "diaChi": "11, phường Bình Chánh, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 1346800,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-12-05T11:41:15.218Z"
+  },
+  "idUser": "5e9ab836699ae60b147a2822",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a3c10c08c4f4694e764b0"
+  },
+  "idShow": "ORDER-9D5AA0",
+  "thongTinNguoiMua": {
+    "ten": "Sơn demo 1",
+    "lowerTen": "son demo 1",
+    "sdt": "0342661112",
+    "diaChi": "21 D5, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 31585100,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-07T09:14:31.988Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "HELLO-2020"
+},{
+  "_id": {
+    "$oid": "618a3d32a2e0b6030403e883"
+  },
+  "idShow": "ORDER-03C348",
+  "thongTinNguoiMua": {
+    "ten": "Sơn demo 2",
+    "lowerTen": "son demo 2",
+    "sdt": "0342661112",
+    "diaChi": "21 d3, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 31585100,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-08T09:19:37.099Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a3da0a2e0b6030403e892"
+  },
+  "idShow": "ORDER-2DB96D",
+  "thongTinNguoiMua": {
+    "ten": "Sơn demo 3",
+    "lowerTen": "son demo 3",
+    "sdt": "0342661112",
+    "diaChi": "Đ@@, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 3412800,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-09T09:21:29.219Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a3eee705420263ce4100a"
+  },
+  "idShow": "ORDER-2DB96D",
+  "thongTinNguoiMua": {
+    "ten": "Sơn demo 4",
+    "lowerTen": "son demo 4",
+    "sdt": "0342661112",
+    "diaChi": "Đ@@, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 3412800,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-10T09:22:29.219Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a3f3b705420263ce41019"
+  },
+  "idShow": "ORDER-2DB96D",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 1",
+    "lowerTen": "ngoc son 1",
+    "sdt": "0342661112",
+    "diaChi": "Đ@@, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 3412800,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-11T09:11:29.219Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a3face0fa4e063c2bd70d"
+  },
+  "idShow": "ORDER-2DB96D",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 2",
+    "lowerTen": "ngoc son 2",
+    "sdt": "0342661112",
+    "diaChi": "Đ@@, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 3412800,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-11T09:21:29.219Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a4070e0fa4e063c2bd71c"
+  },
+  "idShow": "ORDER-45524A",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 3",
+    "lowerTen": "ngoc son 3",
+    "sdt": "0342661112",
+    "diaChi": "DDDĐ, phường An Lạc, Bình Tân, Hồ Chí Minh"
+  },
+  "tongTien": 420000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-12T09:13:33.513Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a40ee3110f63e64fd5393"
+  },
+  "idShow": "ORDER-45524A",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 4",
+    "lowerTen": "ngo son 4",
+    "sdt": "0342661112",
+    "diaChi": "DDDĐ, phường An Lạc, Bình Tân, Hồ Chí Minh"
+  },
+  "tongTien": 420000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-13T09:23:33.513Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a48caa4c6d617d062fd71"
+  },
+  "idShow": "ORDER-74AF03",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 5",
+    "lowerTen": "ngoc son 5",
+    "sdt": "0342661112",
+    "diaChi": "tttt, phường Cẩm Lĩnh, Ba Vì, Hà Nội"
+  },
+  "tongTien": 4500000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-14T10:12:11.346Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a48e9a4c6d617d062fd79"
+  },
+  "idShow": "ORDER-74AF03",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 6",
+    "lowerTen": "ngoc son 6",
+    "sdt": "0342661112",
+    "diaChi": "tttt, phường Cẩm Lĩnh, Ba Vì, Hà Nội"
+  },
+  "tongTien": 4500000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-15T10:07:11.346Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a48eba4c6d617d062fd81"
+  },
+  "idShow": "ORDER-74AF03",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 7",
+    "lowerTen": "ngoc son 7",
+    "sdt": "0342661112",
+    "diaChi": "tttt, phường Cẩm Lĩnh, Ba Vì, Hà Nội"
+  },
+  "tongTien": 4500000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-16T10:08:11.346Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "618a49576bf9460788b3c8e4"
+  },
+  "idShow": "ORDER-85FACA",
+  "thongTinNguoiMua": {
+    "ten": "Ngoc Sơn 8",
+    "lowerTen": "ngoc son 8",
+    "sdt": "0342661112",
+    "diaChi": "tttt, phường  Hòa Thuận Đông, Hải Châu, Đà Nẵng"
+  },
+  "tongTien": 4500000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-17T10:11:33.797Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bd95a076869851585c9023"
+  },
+  "idShow": "ORDER-B8079F",
+  "thongTinNguoiMua": {
+    "ten": "son ngo ung",
+    "lowerTen": "son ngo ung",
+    "sdt": "0342661063",
+    "diaChi": "399, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 4410000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bd95b476869851585c9032"
+  },
+  "idShow": "ORDER-B8079F",
+  "thongTinNguoiMua": {
+    "ten": "son ngo ung",
+    "lowerTen": "son ngo ung",
+    "sdt": "0342661063",
+    "diaChi": "399, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 4410000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bd96f576869851585c9041"
+  },
+  "idShow": "ORDER-B8079F",
+  "thongTinNguoiMua": {
+    "ten": "son ngo ung",
+    "lowerTen": "son ngo ung",
+    "sdt": "0342661063",
+    "diaChi": "399, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 4410000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bd9776d292b00e882a30ba"
+  },
+  "idShow": "ORDER-B8079F",
+  "thongTinNguoiMua": {
+    "ten": "son ngo ung",
+    "lowerTen": "son ngo ung",
+    "sdt": "0342661063",
+    "diaChi": "399, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 4410000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-18T08:01:42.998Z"
+  },
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bd9b1febf6fc32947ccdc0"
+  },
+  "idShow": "ORDER-4D4744",
+  "thongTinNguoiMua": {
+    "ten": "nguyen van manh",
+    "lowerTen": "nguyen van manh",
+    "sdt": "0342661063",
+    "diaChi": "399, phường Bình Chánh, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 4410000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 1,
+  "ngayTao": {
+    "$date": "2021-12-18T08:25:23.946Z"
+  },
+  "idUser": "5ed37e34027d005bd00e9f14",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bf9ca14f99e11894abeaa0"
+  },
+  "idShow": "ORDER-4FF419",
+  "thongTinNguoiMua": {
+    "ten": "nguyen van manh",
+    "lowerTen": "nguyen van manh",
+    "sdt": "0342661063",
+    "diaChi": "12 Nguyen Van Nghi, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 3990000,
+  "soLuongSanPham": 2,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-19T20:57:00.508Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bfaa0a4f99e11894abeaa9"
+  },
+  "idShow": "ORDER-548859",
+  "thongTinNguoiMua": {
+    "ten": "Tan Toan",
+    "lowerTen": "tan toan",
+    "sdt": "0352148963",
+    "diaChi": "12 Nguyen Van A, phường Cẩm Lĩnh, Ba Vì, Hà Nội"
+  },
+  "tongTien": 33700000,
+  "soLuongSanPham": 3,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-19T21:54:14.280Z"
+  },
+  "idUser": "61bfa7694f99e11894abeaa8",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bfb3404f99e11894abeab8"
+  },
+  "idShow": "ORDER-C1B180",
+  "thongTinNguoiMua": {
+    "ten": "Tran Thanh",
+    "lowerTen": "tran thanh",
+    "sdt": "0352148963",
+    "diaChi": "12 Nguyen Van Bao, phường An Phú Tây, Bình Chánh, Hồ Chí Minh"
+  },
+  "tongTien": 59850000,
+  "soLuongSanPham": 15,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-19T22:33:29.749Z"
+  },
+  "idUser": "61bfa7694f99e11894abeaa8",
+  "idVoucher": "undefined"
+},{
+  "_id": {
+    "$oid": "61bff7874f99e11894abeac0"
+  },
+  "idShow": "ORDER-99F37F",
+  "thongTinNguoiMua": {
+    "ten": "ung ngoc son",
+    "lowerTen": "ung ngoc son",
+    "sdt": "0342661063",
+    "diaChi": "3 Gia Lâm, phường Gia Lâm, Lâm Hà, Lâm Đồng"
+  },
+  "tongTien": 1430000,
+  "soLuongSanPham": 1,
+  "hinhThucThanhToan": 0,
+  "ngayTao": {
+    "$date": "2021-12-20T03:24:50.613Z"
+  },
+  "idUser": "618a3978c08c4f4694e764af",
+  "idVoucher": "undefined"
+}]

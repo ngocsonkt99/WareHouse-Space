@@ -1,5 +1,20 @@
 [{
   "_id": {
+    "$oid": "618a42673110f63e64fd539c"
+  },
+  "soSao": 5,
+  "tieuDe": "Good",
+  "noiDung": "Mặt hàng tốt như quảng cáo",
+  "traLoi": "",
+  "idUser": "618a3978c08c4f4694e764af",
+  "idProduct": "PRODU-6202B8",
+  "ngayTao": {
+    "$date": "2021-12-09T09:41:59.780Z"
+  },
+  "ngayTraLoi": "",
+  "isAccept": true
+},{
+  "_id": {
     "$oid": "5ee7a81fd3e84d11e40d7a09"
   },
   "soSao": 4,
@@ -9,10 +24,10 @@
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-15T16:55:59.017Z"
+    "$date": "2021-12-09T16:55:59.017Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T04:54:48.929Z"
+    "$date": "2021-12-09T04:54:48.929Z"
   },
   "isAccept": true
 },{
@@ -20,16 +35,16 @@
     "$oid": "5ee850cb9fbdbf518048c8ba"
   },
   "soSao": 5,
-  "tieuDe": "Rất hài lòng",
+  "tieuDe": "Tuyệt",
   "noiDung": "Sản phẩm này vô cùng tuyệt vời nhá",
   "traLoi": "Cám ơn bạn về nhận xét này",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T04:55:39.412Z"
+    "$date": "2021-11-26T04:55:39.412Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T05:22:33.754Z"
+    "$date": "2021-11-26T05:22:33.754Z"
   },
   "isAccept": true
 },{
@@ -37,16 +52,16 @@
     "$oid": "5ee851379fbdbf518048c8bb"
   },
   "soSao": 3,
-  "tieuDe": "Bình thường",
+  "tieuDe": "Bình thường, không quá tốt như quảng cáo",
   "noiDung": "Cũng ok, xài tạm ổn có điều hơi hao điện",
   "traLoi": "Cám ơn bạn về nhận xét này",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T04:57:27.745Z"
+    "$date": "2021-11-26T04:57:27.745Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T04:58:53.311Z"
+    "$date": "2021-11-26T04:58:53.311Z"
   },
   "isAccept": true
 },{
@@ -60,10 +75,10 @@
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T05:22:04.384Z"
+    "$date": "2021-11-26T05:22:04.384Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T05:22:38.628Z"
+    "$date": "2021-11-26T05:22:38.628Z"
   },
   "isAccept": true
 },{
@@ -71,16 +86,16 @@
     "$oid": "5ee864b1c07d894324a904fd"
   },
   "soSao": 5,
-  "tieuDe": "Rất tốt",
+  "tieuDe": "Hàng tốt",
   "noiDung": "vận chuyển nhanh, sử dụng tốt",
   "traLoi": "Cám ơn bạn về nhận xét này",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T06:20:33.835Z"
+    "$date": "2021-11-16T06:20:33.835Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T06:21:22.343Z"
+    "$date": "2021-11-16T06:21:22.343Z"
   },
   "isAccept": true
 },{
@@ -88,16 +103,16 @@
     "$oid": "5ee869a9bf09c76f0c848e82"
   },
   "soSao": 5,
-  "tieuDe": "Rất ok",
+  "tieuDe": "Rất tiện lợi",
   "noiDung": "Sản phẩm này vừa rẻ mà còn tiện lợi nữa. 5 sao là xứng đáng",
   "traLoi": "Cảm ơn bạn về nhận xét này",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T06:41:45.723Z"
+    "$date": "2021-11-16T06:41:45.723Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T06:42:08.880Z"
+    "$date": "2021-11-16T06:42:08.880Z"
   },
   "isAccept": true
 },{
@@ -105,16 +120,16 @@
     "$oid": "5ee86a72e9430b74ec810248"
   },
   "soSao": 5,
-  "tieuDe": "Quá tuyệt vời",
+  "tieuDe": "Quá rẻ",
   "noiDung": "Trên cả tuyệt vời với giá tiền này",
   "traLoi": "Cám ơn bạn",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T06:45:06.100Z"
+    "$date": "2021-11-16T06:45:06.100Z"
   },
   "ngayTraLoi": {
-    "$date": "2020-06-16T06:50:03.367Z"
+    "$date": "2021-11-16T06:50:03.367Z"
   },
   "isAccept": true
 },{
@@ -122,13 +137,13 @@
     "$oid": "5ee88a22df9778789498a797"
   },
   "soSao": 5,
-  "tieuDe": "rất hài lòng",
+  "tieuDe": "Khá hài lòng",
   "noiDung": "TiKi giao hàng cực nhanh, thái độ nhân viên tốt. Hàng được bảo quản tốt. Khi mới nhận máy, tôi không kiểm tra được kĩ, nhưng khi đem ra sử dụng tôi thấy tem nhãn dán ở phần bụng máy ngả ố vàng và bị bong ra (bong hoàn toàn do lớp dính đã khô, kiểu như đã bị bóc ra trước đó và phủ thêm lớp hồ dính đểu lên trên nữa). Điều này làm tôi không hài lòng. Máy chạy có mùi hơi khét thông thường của các dòng máy có motơ với tốc độ lớn. Hiện giờ, sau 5 lần sử dụng, máy vẫn chạy bình thường. Tôi chỉ băn khoăn về độ bền của máy./",
   "traLoi": "",
   "idUser": "5e9ab836699ae60b147a2822",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T09:00:18.538Z"
+    "$date": "2021-11-16T09:00:18.538Z"
   },
   "ngayTraLoi": "",
   "isAccept": true
@@ -143,7 +158,7 @@
   "idUser": "5e9ab944699ae60b147a2823",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T09:14:59.029Z"
+    "$date": "2021-11-16T09:14:59.029Z"
   },
   "ngayTraLoi": "",
   "isAccept": true
@@ -152,13 +167,13 @@
     "$oid": "5ee88e9b9d914d072488d012"
   },
   "soSao": 5,
-  "tieuDe": "rất ok",
+  "tieuDe": "Ok tốt",
   "noiDung": "Đây là một sản phẩm hoàn hảo không chê vào đâu được",
   "traLoi": "",
   "idUser": "5ebcf703cacdde1d8caeb469",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T09:19:23.733Z"
+    "$date": "2021-11-06T09:19:23.733Z"
   },
   "ngayTraLoi": "",
   "isAccept": true
@@ -173,7 +188,7 @@
   "idUser": "5eddb2c8392cad4a88bc2e74",
   "idProduct": "PRODU-7885F5",
   "ngayTao": {
-    "$date": "2020-06-16T09:20:54.336Z"
+    "$date": "2020-11-06T09:20:54.336Z"
   },
   "ngayTraLoi": "",
   "isAccept": true
