@@ -33,7 +33,7 @@ export default function ForgetPassword() {
                 <Navbar.Brand href="/">
                     <img
                         alt=""
-                        src='/logo.png'
+                        src='/logo2.png'
                         width="40"
                         height="40"
                         style={{ marginRight: 5 }}
