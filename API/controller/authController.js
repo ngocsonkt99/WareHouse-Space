@@ -37,6 +37,7 @@ module.exports = {
                         if (result == true) {
                             var secretKey = process.env.SECRET_KEY;
                             var payload = {
+                                // name:resultUser.ten,
                                 userID: resultUser._id,
                                 vaiTro: resultUser.vaiTro
                             };

@@ -201,10 +201,10 @@ export default function QLBrandComponent() {
                                             dispatch({ type: 'OBJECT_ID_NOW', id: item._id });
                                         }}>
                                             <td>{item.idShow}</td>
-                                            <td style={{ width: 300 }}>{item.ten}</td>
+                                            <td style={{ width: 200 }}>{item.ten}</td>
                                             {
                                                 item.img.length === 0 ? <td><Image src="https://www.generationsforpeace.org/wp-content/uploads/2018/03/empty.jpg" style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td> :
-                                                    <td><Image src={item.img} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
+                                                    <td><Image src={item.img} style={{ width: 300, height: 120, marginLeft: 30 }}></Image></td>
                                             }
                                             <td>{item.xuatXu}</td>
                                             <td>{hamChuyenDoiNgay(new Date(item.ngayTao))}</td>

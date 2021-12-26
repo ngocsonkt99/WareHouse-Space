@@ -136,6 +136,7 @@ export default function BanHang_QuanLyTonKho() {
                                         <th>Hình ảnh</th>
                                         <th>Tổng số hàng</th>
                                         <th>Số lượng đã bán</th>
+                                        <th>Số lượng còn lại</th>
                                         <th>Trạng thái</th>
                                         <th></th>
                                     </tr>
@@ -148,15 +149,16 @@ export default function BanHang_QuanLyTonKho() {
                                                     dispatch({ type: 'OBJECT_ID_NOW', id: item._id });
                                                 }}>
                                                     <td>{item.idShow}</td>
-                                                    <td style={{ width: 300 }}>{item.ten}</td>
-                                                    <td><Image src={item.img.chinh} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
-                                                    <td style={{ width: 200 }}>{item.soLuong}</td>
+                                                    <td style={{ width: 200 }}>{item.ten}</td>
+                                                    <td><Image src={item.img.chinh} style={{ width: 100, height: 100, marginLeft: 30 }}></Image></td>
+                                                    <td style={{ width: 100 }}>{item.soLuong}</td>
                                                     <td>{item.soLuongDaBan}</td>
+                                                    <td>{item.soLuong-item.soLuongDaBan}</td>
                                                     <td style={{ fontWeight: 'bold' }}>
                                                         {item.soLuongDaBan < item.soLuong ? (<span style={{ color: 'blue', fontWeight: 'bold' }}>Còn hàng</span>) : (<span style={{ color: 'red', fontWeight: 'bold' }}>Hết hàng</span>)}
                                                     </td>
                                                     <td>
-                                                        <Button  style={{ width: 200, background: "#17a2b8" }} onClick={() => {
+                                                        <Button  style={{ width: 150, background: "#17a2b8" }} onClick={() => {
                                                             dispatch({ type: 'SHOW_CAPNHATKHO' })
                                                         }}>Nhập hàng</Button>
                                                     </td>

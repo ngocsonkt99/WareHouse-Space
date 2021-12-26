@@ -238,8 +238,8 @@ export default function QLProductComponent() {
                                             dispatch({ type: 'OBJECT_ID_NOW', id: item._id });
                                         }}>
                                             <td>{item.idShow}</td>
-                                            <td style={{ width: 350 }}>{item.ten}</td>
-                                            <td><Image src={item.img.chinh} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
+                                            <td style={{ width: 250 }}>{item.ten}</td>
+                                            <td><Image src={item.img.chinh} style={{ width: 150, height: 120, marginLeft: 30 }}></Image></td>
                                             <td>{format_curency(item.gia.toString())}</td>
                                             <td><span style={{ color: item.isAccept === false ? 'red' : 'blue' }}><strong>{item.isAccept === false ? 'Chưa duyệt' : 'Đã duyệt'}</strong></span></td>
                                             <td><span style={{ color: item.isLock === false ? 'red' : 'blue' }}><strong>{item.isLock === false ? 'Chưa khóa' : 'Đã khóa'}</strong></span></td>

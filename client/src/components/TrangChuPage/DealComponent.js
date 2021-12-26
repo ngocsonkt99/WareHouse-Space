@@ -77,7 +77,7 @@ export default function DealComponent(props) {
                                     <div key={i} className="col-sm-3 item" style={{ backgroundColor: "white", height: 'auto', marginTop: 35, width: '95%' }}>
                                         <Link to={'detail/' + item._id + '/' + to_slug(item.ten)} className="a_item">
                                             <div className="row">
-                                                <Image style={{ width: '100%', height: 180 }} src={item.img.chinh} />
+                                                <Image style={{ width: '100%', height: 250 }} src={item.img.chinh} />
                                             </div>
                                             <div className="row item-ten">
                                                 <span><strong>{setLongString(item.ten)}</strong></span>

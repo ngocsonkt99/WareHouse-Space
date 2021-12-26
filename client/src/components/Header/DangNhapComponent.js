@@ -43,6 +43,7 @@ export default function DangNhapComponent() {
             if (res.data.status === "success") {
                 setLoading(false);
                 localStorage.setItem('email', res.data.email);
+                localStorage.setItem('name',res.data.name)
                 setCookies('userID', res.data.userID, { path: '/' });
                 setCookies('token', res.data.token, { path: '/' });
                 if (res.data.vaiTro === 0) {

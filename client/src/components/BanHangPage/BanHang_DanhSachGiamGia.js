@@ -138,10 +138,10 @@ export default function BanHang_DanhSachGiamGia() {
                                         setSpinnerReducer === 0 && (
                                             dataProduct.map((item, i) => {
                                                 return <tr key={item._id}>
-                                                    <td>{item.idShow}</td>
-                                                    <td style={{ width: 500 }}>{item.ten}</td>
-                                                    <td><Image src={item.img.chinh} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
-                                                    <td>{item.giaTriGiamGia < 100 ? item.giaTriGiamGia.toString() + '%' : format_curency(item.giaTriGiamGia.toString()) + ' đ'}</td>
+                                                    <td style={{ width: 300 }}>{item.idShow}</td>
+                                                    <td style={{ width: 300 }}>{item.ten}</td>
+                                                    <td><Image src={item.img.chinh} style={{ width: 130, height: 100, marginLeft: 30 }}></Image></td>
+                                                    <td>{item.giaTriGiamGia < 200 ? item.giaTriGiamGia.toString() + '%' : format_curency(item.giaTriGiamGia.toString()) + ' đ'}</td>
                                                     <td>
                                                         <Button type="primary"  style={{ width: 200, background: "#17a2b8" }} onClick={() => {
                                                             dispatch({ type: 'OBJECT_ID_NOW', id: item._id });

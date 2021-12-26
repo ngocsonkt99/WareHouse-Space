@@ -176,10 +176,10 @@ export default function QLGianHangComponent() {
                                 setSpinnerReducer === 0 && (
                                     dataShop.map((item, i) => {
                                         return <tr key={i}>
-                                            <td>{item.thongTinShop.idShop}</td>
-                                            <td>{item.thongTinShop.ten}</td>
-                                            <td><Image src={item.thongTinShop.logoShop === '' ? "https://www.generationsforpeace.org/wp-content/uploads/2018/03/empty.jpg" : item.thongTinShop.logoShop} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
-                                            <td>{item.thongTinShop.diaChi}</td>
+                                            <td style={{ width: 150 }}>{item.thongTinShop.idShop}</td>
+                                            <td style={{ width: 150 }}>{item.thongTinShop.ten}</td>
+                                            <td><Image src={item.thongTinShop.logoShop === '' ? "https://www.generationsforpeace.org/wp-content/uploads/2018/03/empty.jpg" : item.thongTinShop.logoShop} style={{ width: 130, height: 120, marginLeft: 30 }}></Image></td>
+                                            <td style={{ width: 150 }}>{item.thongTinShop.diaChi}</td>
                                             <td>{item.thongTinShop.moTa}</td>
                                             <td>{hamChuyenDoiNgay(new Date(item.thongTinShop.ngayTao))}</td>
                                             {/* <td>{item.thongTinShop.viShop}<br></br>

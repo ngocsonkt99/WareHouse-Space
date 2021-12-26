@@ -120,7 +120,7 @@ export default function MarkettingComponent(props) {
 
                         {dataBaiViet.map((item, i) => {
                             return (
-                                (i === 2 || i === 3) &&
+                                (i === 1 || i === 2) &&
                                 <Link key={item._id} to={'baiviet/' + item.idShow + '/' + to_slug(item.tieuDe)} >
                                     <Image id="itemQuangCao" style={{ width: '100%', height: 150, margin: '10px 0 ' }} src={item.img} rounded />
                                 </Link>

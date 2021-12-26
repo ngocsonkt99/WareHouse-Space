@@ -599,7 +599,7 @@ export default function BanHang_TrangChu(props) {
                             <br></br>
                             <br></br>
                             <h6>URL:&nbsp;</h6>
-                            <p>client-warehouse.herokuapp.com</p>
+                            <p>warehousespace.herokuapp.com</p>
                             <br></br>
                             {/* <h6>Vi One Up:&nbsp;  {format_curency((dataUser.thongTinShop.viShop).toString())}đ</h6>
                             <br></br> */}

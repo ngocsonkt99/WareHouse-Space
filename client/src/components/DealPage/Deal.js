@@ -82,17 +82,17 @@ export default function Deal() {
 
     return (
         <Fragment>
-            <img alt='banner' style={{ marginTop: '50px' }} src='https://previews.123rf.com/images/houbacze/houbacze1803/houbacze180300322/98083578-hot-deal-banner-template.jpg' height='300' width='100%'></img>
-            <div className="container" style={{ marginTop: '50px' }}>
+            <img alt='banner' style={{ marginTop: '0px' }} src='/deal.jpg' height='250' width='100%'></img>
+            <div className="container" style={{ marginTop: '30px' }}>
                 <div className="row maincontent">
                     <div className="row showitems-maincontent">
                         {
                             dataProduct.map((item, i) => {
                                 return <Tooltip title={item.ten} placement={'right'} key={i}>
-                                    <div key={item._id} className="col-sm-3 item" style={{ backgroundColor: "white", height: 350, margin: 20, width: '95%' }}>
+                                    <div key={item._id} className="col-sm-3 item" style={{ backgroundColor: "white", height: 350, margin: 30, width: '100%' }}>
                                         <Link to={'/detail/' + item._id + '/' + to_slug(item.ten)} className="a_item">
                                             <div className="row">
-                                                <Image style={{ width: '100%', height: 180 }} src={item.img.chinh} />
+                                                <Image style={{ width: '100%', height: 250 }} src={item.img.chinh} />
                                             </div>
                                             <div className="row item-ten">
                                                 <span>{setLongString(item.ten)}</span>

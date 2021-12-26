@@ -134,7 +134,7 @@ export default function BanHang() {
                         <div className='row' style={{ float: 'right' }}>
                             <Dropdown overlay={menu} placement="bottomCenter">
                                 <Button size='large' variant='info' style={{ marginTop: 15 }}>
-                                    <img alt="" src='/shop.jpg' width="30" height="30" /> &nbsp; {dataUser.email} <DownOutlined />
+                                    <img alt="" src='/shop.jpg' width="30" height="30" /> &nbsp; {dataUser.thongTinShop.ten} <DownOutlined />
                                 </Button>
                             </Dropdown>
                         </div>

@@ -15,7 +15,7 @@ export default function UserComponent() {
     async function LayDataUserTheoID(userID) {
         let res = await axios.get('hethong/users-item?idUser=' + userID);
         if (res.data.status === 'success') {
-            setDataEmail(res.data.data.email);
+            setDataEmail(res.data.data.ten);
         } else {
             message.error('Lấy data user thất bại');
         }

@@ -102,8 +102,8 @@ export default function BanHang_Top10SanPhamBanChay() {
                                                 dataProduct.map((item, i) => {
                                                     return <tr key={i}>
                                                         <td>{i + 1}</td>
-                                                        <td style={{ width: 400 }}>{item.tenSanPham}</td>
-                                                        <td><Image src={item.img} style={{ width: 200, height: 100, marginLeft: 30 }}></Image></td>
+                                                        <td style={{ width: 300 }}>{item.tenSanPham}</td>
+                                                        <td><Image src={item.img} style={{ width: 130, height: 100, marginLeft: 30 }}></Image></td>
                                                         <td style={{ width: 150 }}>{item.soDonHang}</td>
                                                         <td>{item.soLuongDaBan}</td>
                                                         <td style={{ fontWeight: 'bold' }}>{format_curency(item.tongTienBanDuoc.toString())} đ</td>
