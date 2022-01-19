@@ -211,7 +211,7 @@ export default function QLDoanhThuComponent() {
                     <br></br><br></br>
 
                     
-                    {/* <br></br><br></br>
+                    <br></br><br></br>
                     <div style={{ height: 600, width: 1100, marginLeft: 100 }}>
                         <Line data={chartData} options={{
                             responsive: true,
@@ -252,7 +252,7 @@ export default function QLDoanhThuComponent() {
                                 text: 'BIỂU ĐỒ TRÒN', display: true
                             }
                         }}></Pie>
-                    </div> */}
+                    </div>
 
                     <div className="col" style={{ width: '100%', marginTop: 40 }}>
                         <h4>CHI TIẾT DOANH THU</h4>
